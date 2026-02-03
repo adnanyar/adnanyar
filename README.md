@@ -3,7 +3,7 @@
 <p align="center">
   <div align="center" style="background: linear-gradient(135deg, #00D1FF, #4D90FE, #FFD700); padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
     <p style="font-size: 20px; color: white; font-family: 'Orbitron', sans-serif; font-weight: bold;">
-      **Bridging the gap between human ideas and digital reality.**  
+      <b>Bridging the gap between human ideas and digital reality.</b>  
       A high-performance **Full Stack Architect** combining **AI Intelligence** with **Scalable Systems** to propel businesses into the future.
     </p>
   </div>
