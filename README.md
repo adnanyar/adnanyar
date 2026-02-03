@@ -5,12 +5,8 @@
   <img src="https://img.shields.io/badge/FRONTEND_DEVELOPER-0D1117?style=for-the-badge&labelColor=4D90FE&color=0D1117" />
   <img src="https://img.shields.io/badge/AUTOMATION_SPECIALIST-0D1117?style=for-the-badge&labelColor=FF5733&color=0D1117" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_ARCHITECT-0D1117?style=for-the-badge&labelColor=00D1FF&color=0D1117" />
-  <img src="https://img.shields.io/badge/GOLD_MEDALIST_ENGINEER-0D1117?style=for-the-badge&labelColor=FFD700&color=0D1117" />
-</p>
 
-# <p align="center">🌠 ADNAN YAR | FULL STACK DEVELOPER 🌠</p>
+# <p align="center">🌠 **ADNAN YAR** | **FULL STACK DEVELOPER** 🌠</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=ELITE+FULL+STACK+ENGINEER;AI+AUTOMATION+SPECIALIST;AWS+CLOUD+ARCHITECT;SAAS+PRODUCT+STRATEGIST" alt="Cosmic Typing" />
@@ -18,22 +14,24 @@
 
 ---
 
-## 🛰️ ORBITAL COMMAND BRIEF
-**Bridging the gap between human ideas and digital reality.** I am a high-performance **Full Stack Architect** with a mission to eliminate manual inefficiency. By merging **Scalable Backend Systems** with **AI Intelligence**, I build digital engines that propel businesses into the future.
+## 🛰️ **ORBITAL COMMAND BRIEF**
+**Bridging the gap between human ideas and digital reality.**  
+I am a high-performance **Full Stack Architect** with a mission to eliminate manual inefficiency. By merging **Scalable Backend Systems** with **AI Intelligence**, I build digital engines that propel businesses into the future.
 
 * 🥇 **Academic Excellence:** Gold Medalist in Software Engineering.
 * ☁️ **Cloud Infrastructure:** AWS Certified Practitioner for secure, global scaling.
 * 🤖 **AI Integration:** Specialized in LLM workflows and intelligent automation.
-* ⚡ **Performance:** Reducing operational latency and manual work by up to 60%.
+* ⚡ **Performance:** Reducing operational latency and manual work by up to **60%**.
 
 ---
 
-## 🧬 TECHNICAL CONSTELLATIONS
+## 🧬 **TECHNICAL CONSTELLATIONS**
 
 <p align="center">
   <img src="https://img.shields.io/badge/FRONTEND-React%20|%20Next%20|%20Vue%20|%20Tailwind-A97CF8?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/BACKEND-Laravel%20|%20Node%20|%20FastAPI%20|%20PHP-00D1FF?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/DATABASE-Postgres%20|%20Mongo%20|%20MySQL%20|%20Redis-58a6ff?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/DEVOPS-AWS%20|%20Docker%20|%20CI/CD%20|%20Git-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -41,9 +39,9 @@
 
 ---
 
-## 🛠️ HIGH-IMPACT SYSTEM DEPLOYMENTS
+## 🛠️ **HIGH-IMPACT SYSTEM DEPLOYMENTS**
 
-| System | Cosmic Stack | Mission Impact |
+| **System** | **Cosmic Stack** | **Mission Impact** |
 | :--- | :--- | :--- |
 | **🚀 ChattersHub CRM** | `Next.js` `Node.js` | **60% reduction** in manual lead handling time. |
 | **🏥 MediNursing AI** | `FastAPI` `Python` | AI-powered medical triage assistant for fast response. |
@@ -52,36 +50,38 @@
 
 ---
 
-## 💬 CLIENT SUCCESS STORIES (The Human Element)
+## 💬 **CLIENT SUCCESS STORIES** *(The Human Element)*
 
-> **"Adnan transformed our manual tracking into a 100% automated machine. Our efficiency increased by 40% in just two months."** > — *Operations Lead, Comtanix*
+> **"Adnan transformed our manual tracking into a 100% automated machine. Our efficiency increased by 40% in just two months."**  
+> — *Operations Lead, Comtanix*
 
-> **"The CRM he built handles our traffic with zero downtime. His architectural knowledge is top-tier."** > — *Founder, 5D Solutions LLC*
+> **"The CRM he built handles our traffic with zero downtime. His architectural knowledge is top-tier."**  
+> — *Founder, 5D Solutions LLC*
 
 ---
 
-## 🏆 CAREER TRAJECTORY
+## 🏆 **CAREER TRAJECTORY**
 
 ### **💠 Senior Software Developer | 5D Solutions LLC**
-*October 2022 - Present*
+*October 2022 - Present*  
 * **Mission:** Architecting enterprise-level ERP and SaaS platforms.
 * **Impact:** Delivered 3+ high-concurrency modules, enhancing system automation by **20%**.
 
 ### **💠 Web Developer | Comtanix**
-*May 2023 - February 2025*
+*May 2023 - February 2025*  
 * **Mission:** Engineering Order Management Solutions (OMS).
 * **Impact:** Boosted team productivity by **60%** and automated **90%** of social posting workflows.
 
 ---
 
-## 📊 GALACTIC ANALYTICS
+## 📊 **GALACTIC ANALYTICS**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00D1FF" width="100%" />
 </p>
 
 ---
 
-## 📡 TERMINAL CONNECTION
+## 📡 **TERMINAL CONNECTION**
 <p align="center">
   <a href="https://linkedin.com/in/adnanyar">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
