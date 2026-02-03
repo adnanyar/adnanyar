@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/GOLD_MEDALIST_ENGINEER-0D1117?style=for-the-badge&labelColor=FFD700&color=0D1117" />
 </p>
 
-# <p align="center">🌠 ADNAN YAR | FULL STACK NEBULA 🌠</p>
+# <p align="center">🌠 ADNAN YAR | FULL STACK DEVELOPER 🌠</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=ELITE+FULL+STACK+ENGINEER;AI+AUTOMATION+SPECIALIST;AWS+CLOUD+ARCHITECT;SAAS+PRODUCT+STRATEGIST" alt="Cosmic Typing" />
