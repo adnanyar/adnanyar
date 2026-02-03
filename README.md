@@ -40,10 +40,7 @@ I bridge the gap between complex engineering and business ROI. With 20+ delivere
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanyar&theme=tokyonight&hide_border=true&background=0d1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanyar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-</p>
+
 
 ---
 
