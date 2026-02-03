@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/badge/AUTOMATION_SPECIALIST-0D1117?style=for-the-badge&labelColor=FF5733&color=0D1117" />
 </p>
 
-# <p align="center" style="color: #A97CF8; font-family: 'Orbitron', sans-serif;">🌠 **ADNAN YAR** | **FULL STACK DEVELOPER** 🌠</p>
+<p align="center" style="font-family: 'Orbitron', sans-serif; color: #A97CF8; font-size: 36px;">**🌐 THE FUTURE IS NOW. 🌐**</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=ELITE+FULL+STACK+ENGINEER;AI+AUTOMATION+SPECIALIST;AWS+CLOUD+ARCHITECT;SAAS+PRODUCT+STRATEGIST" alt="Cosmic Typing" />
 </p>
 
-<div align="center" style="background: linear-gradient(45deg, #00D1FF, #4D90FE, #FFD700); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+<div align="center" style="background: linear-gradient(135deg, #00D1FF, #4D90FE, #FFD700); padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
   <p style="font-size: 20px; color: white; font-family: 'Orbitron', sans-serif; font-weight: bold;">**Bridging the gap between human ideas and digital reality.**  
   A high-performance **Full Stack Architect** combining **AI Intelligence** with **Scalable Systems** to propel businesses into the future.</p>
 </div>
@@ -109,3 +109,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=20&section=footer" width="100%" />
 </p>
+
