@@ -1,101 +1,89 @@
-# <p align="center">✨ ADNAN YAR | GALAXY ARCHITECT ✨</p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/GOLD_MEDALIST-0D1117?style=for-the-badge&logo=codeproject&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/AWS_CERTIFIED-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/FULL_STACK-0D1117?style=for-the-badge&logo=layers&logoColor=00D1FF" />
+  <img src="https://img.shields.io/badge/GALAXY_SYSTEM_ARCHITECT-0D1117?style=for-the-badge&labelColor=00D1FF&color=0D1117" />
+  <img src="https://img.shields.io/badge/GOLD_MEDALIST_ENGINEER-0D1117?style=for-the-badge&labelColor=FFD700&color=0D1117" />
 </p>
 
+# <p align="center">🌠 ADNAN YAR | FULL STACK NEBULA 🌠</p>
+
 <p align="center">
-  <b>🚀 Scaling Digital Universes with Laravel, MERN, & AI 🚀</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=ELITE+FULL+STACK+ENGINEER;AI+AUTOMATION+SPECIALIST;AWS+CLOUD+ARCHITECT;SAAS+PRODUCT+STRATEGIST" alt="Cosmic Typing" />
 </p>
 
 ---
 
-### 🛰️ MISSION CONTROL
-> **"Engineering solutions that expand beyond the boundaries of code."**
+## 🛰️ ORBITAL COMMAND BRIEF
+**Bridging the gap between human ideas and digital reality.** I am a high-performance **Full Stack Architect** with a mission to eliminate manual inefficiency. By merging **Scalable Backend Systems** with **AI Intelligence**, I build digital engines that propel businesses into the future.
 
-I am a **Senior Full-Stack Developer** focused on building high-performance SaaS, AI-driven automation, and real-time systems. I specialize in turning complex logic into seamless, cosmic user experiences.
-
-- 🌠 **Location:** Rawalpindi, Pakistan (Digital Nomad)
-- 🌌 **Focus:** SaaS Architecture, AI Workflows, Cloud Infrastructure
-- 🛸 **Objective:** Reducing manual business operations by 60%+
-
----
-
-### 🧬 TECHNICAL CONSTELLATION
-
-<table align="center" border="0">
-  <tr>
-    <td align="center"><b>Frontend Nebula</b></td>
-    <td align="center"><b>Backend Supernova</b></td>
-    <td align="center"><b>Cloud & Data Void</b></td>
-  </tr>
-  <tr>
-    <td>
-      • React.js / Next.js<br>
-      • Vue.js / Nuxt.js<br>
-      • Tailwind CSS / SCSS<br>
-      • Three.js / Animation
-    </td>
-    <td>
-      • Laravel / PHP<br>
-      • Node.js / Express<br>
-      • Python / FastAPI<br>
-      • WebSockets / Real-time
-    </td>
-    <td>
-      • AWS / Docker<br>
-      • MySQL / PostgreSQL<br>
-      • MongoDB / Redis<br>
-      • CI / CD Pipelines
-    </td>
-  </tr>
-</table>
+* 🥇 **Academic Excellence:** Gold Medalist in Software Engineering.
+* ☁️ **Cloud Infrastructure:** AWS Certified Practitioner for secure, global scaling.
+* 🤖 **AI Integration:** Specialized in LLM workflows and intelligent automation.
+* ⚡ **Performance:** Reducing operational latency and manual work by up to 60%.
 
 ---
 
-### 🛠️ HIGH-IMPACT DEPLOYMENTS (SaaS Labs)
+## 🧬 TECHNICAL CONSTELLATIONS
 
-| Project | Tech Stack | Business Impact |
+<p align="center">
+  <img src="https://img.shields.io/badge/FRONTEND-React%20|%20Next%20|%20Vue%20|%20Tailwind-A97CF8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/BACKEND-Laravel%20|%20Node%20|%20FastAPI%20|%20PHP-00D1FF?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/DATABASE-Postgres%20|%20Mongo%20|%20MySQL%20|%20Redis-58a6ff?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEVOPS-AWS%20|%20Docker%20|%20CI/CD%20|%20Git-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ HIGH-IMPACT SYSTEM DEPLOYMENTS
+
+| System | Cosmic Stack | Mission Impact |
 | :--- | :--- | :--- |
-| **🛸 ChattersHub CRM** | `Next.js` `Node` | Automated 60% of lead workflows. |
-| **🏠 Lease Match NYC** | `Laravel` `AI` | 40% faster AI property matchmaking. |
-| **🏥 MediNursing AI** | `Python` `FastAPI` | AI-driven patient triage & assistant. |
-| **📅 Pindot Sync** | `PHP` `WebSockets` | Zero-latency calendar synchronization. |
+| **🚀 ChattersHub CRM** | `Next.js` `Node.js` | **60% reduction** in manual lead handling time. |
+| **🏥 MediNursing AI** | `FastAPI` `Python` | AI-powered medical triage assistant for fast response. |
+| **📅 Pindot Sync** | `Laravel` `WebSocket` | Real-time global calendar synchronization. |
+| **🏠 Lease Match NYC** | `Laravel` `Vue.js` | Intelligent AI matchmaking for real estate scaling. |
 
 ---
 
-### 🏆 CAREER ORBIT
+## 💬 CLIENT SUCCESS STORIES (The Human Element)
 
-**💠 Senior Software Developer | 5D Solutions LLC**
-> Architecting enterprise ERP & SaaS ecosystems for the UAE market. Integrated cloud services to enhance scalability and performance.
+> **"Adnan transformed our manual tracking into a 100% automated machine. Our efficiency increased by 40% in just two months."** > — *Operations Lead, Comtanix*
 
-**💠 Web Developer | Comtanix**
-> Engineered an Order Management System (OMS) that boosted team productivity by **60%** and automated **90%** of social posting workflows.
+> **"The CRM he built handles our traffic with zero downtime. His architectural knowledge is top-tier."** > — *Founder, 5D Solutions LLC*
 
 ---
 
-### 📊 SYSTEM METRICS
-*(Note: These load natively via GitHub's internal cache for maximum stability)*
+## 🏆 CAREER TRAJECTORY
 
+### **💠 Senior Software Developer | 5D Solutions LLC**
+*October 2022 - Present*
+* **Mission:** Architecting enterprise-level ERP and SaaS platforms.
+* **Impact:** Delivered 3+ high-concurrency modules, enhancing system automation by **20%**.
+
+### **💠 Web Developer | Comtanix**
+*May 2023 - February 2025*
+* **Mission:** Engineering Order Management Solutions (OMS).
+* **Impact:** Boosted team productivity by **60%** and automated **90%** of social posting workflows.
+
+---
+
+## 📊 GALACTIC ANALYTICS
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00D1FF" width="100%" />
 </p>
 
 ---
 
-### 📡 TERMINAL CONNECTION
-
+## 📡 TERMINAL CONNECTION
 <p align="center">
   <a href="https://linkedin.com/in/adnanyar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adnanyar143@gmail.com">
-    <img src="https://img.shields.io/badge/Secure_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/SYSTEM_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.adnanyar.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -104,5 +92,5 @@ I am a **Senior Full-Stack Developer** focused on building high-performance SaaS
 </p>
 
 <p align="center">
-  <i>"I don't just write code — I build solutions that drive real business impact."</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=20&section=footer" width="100%" />
 </p>
