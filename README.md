@@ -1,77 +1,73 @@
-# <p align="center">🚀 ADNAN YAR | FULL STACK ARCHITECT</p>
+# <p align="center">🌌 ADNAN YAR | FULL STACK ARCHITECT</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adnanyar&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 <p align="center">
-  <b>Gold Medalist Software Engineer • AWS Certified Cloud Practitioner • AI & Automation Specialist</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-SaaS_&_AI-blue?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Gold+Medalist+Engineer;SaaS+%26+AI+Specialist;AWS+Certified+Architect;MERN+%26+Laravel+Expert" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛰️ Digital Briefing
-I bridge the gap between complex engineering and business ROI. With 20+ delivered projects, I specialize in building high-concurrency systems that eliminate manual work.
+## 🛰️ Mission Control
+**A Results-Driven Full Stack Engineer** specializing in high-scale architectures. I transform manual business processes into automated, revenue-generating digital engines.
 
-* 🥇 **Gold Medalist** (KFUEIT) – Precision-engineered code.
-* ☁️ **AWS Certified** – Scalable cloud infrastructure.
-* ⚡ **Full Stack Mastery** – Expert in MERN, PERN, and Laravel.
-* 🤖 **AI Automation** – Reducing operational overhead by up to 60%.
+* 🥇 **Gold Medalist** – Mathematical precision in every line of code.
+* ☁️ **AWS Architect** – Secure, scalable, and cost-effective cloud systems.
+* 🤖 **AI Strategist** – Integrating LLMs to reduce operational overhead by 60%.
 
 ---
 
-## 🧬 Tech Stack Spectrum
+## 🧬 Technical DNA (3D Spectrum)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,threejs,nodejs,express,laravel,php,python,fastapi,mongodb,postgres,mysql,redis,aws,docker&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,threejs,nodejs,laravel,python,aws,mongodb,postgres,docker&perline=6" />
   </a>
 </p>
 
 ---
 
-## 📈 Engineering Impact (Live Stats)
+## 📊 Engineering Metrics (Stable 3D View)
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnanyar&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnanyar&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adnanyar&theme=tokyonight" width="32%" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="98%" />
+</p>
 
 ---
 
-## 🛠️ High-Impact Engineering (SaaS & AI)
+## 🛠️ High-Impact Deployments
 
-| Project | Tech Stack | Business Impact |
+| Project | Tech Stack | Business ROI |
 | :--- | :--- | :--- |
-| **🚀 ChattersHub CRM** | `Next.js` `Node` | Automated 60% of lead workflows. |
-| **🏠 Lease Match NYC** | `Laravel` `AI` | Intelligent real-time apartment matching. |
-| **🏥 MediNursing AI** | `FastAPI` `Python` | AI assistant for patient triage. |
-| **📅 Pindot Sync** | `PHP` `WebSockets` | Real-time cross-platform calendar engine. |
+| **🚀 ChattersHub** | `Next.js` `Node` | 60% reduction in manual lead handling. |
+| **🏠 Lease Match** | `Laravel` `AI` | 40% faster property matchmaking. |
+| **🏥 MediNursing** | `Python` `FastAPI` | AI-driven patient triage system. |
+| **📅 Pindot Sync** | `PHP` `WebSockets` | Zero-latency calendar synchronization. |
 
 ---
 
-## 🏆 Work Experience
+## 🏆 Career Milestone
 
 > **Senior Software Developer @ 5D Solutions LLC**
-> *Architecting high-scale ERP and SaaS platforms for the UAE market.*
-
-> **Web Developer @ Comtanix**
-> *Increased operational productivity by 60% through custom Order Management Systems.*
+> *Designing enterprise-grade SaaS and ERP solutions for the UAE market.*
 
 ---
 
-## 🤝 Establish Connection
+## 🤝 Connect with the Architect
 <p align="center">
-<a href="https://linkedin.com/in/adnanyar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:adnanyar143@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.adnanyar.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/adnanyar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adnanyar143@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.adnanyar.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DESIGNED_WITH_PRECISION_BY_ADNAN_YAR-0d1117?style=for-the-badge&labelColor=58a6ff&color=0d1117" />
+  <img src="https://img.shields.io/badge/PRECISION_ENGINEERED_BY_ADNAN_YAR-58a6ff?style=for-the-badge&labelColor=0d1117" />
 </p>
