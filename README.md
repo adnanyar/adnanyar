@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/GALAXY_SYSTEM_ARCHITECT-0D1117?style=for-the-badge&labelColor=00D1FF&color=0D1117" />
+  <img src="https://img.shields.io/badge/SYSTEM_ARCHITECT-0D1117?style=for-the-badge&labelColor=00D1FF&color=0D1117" />
+  <img src="https://img.shields.io/badge/GOLD_MEDALIST_ENGINEER-0D1117?style=for-the-badge&labelColor=FFD700&color=0D1117" />
+  <img src="https://img.shields.io/badge/ERP_SPECIALIST-0D1117?style=for-the-badge&labelColor=00FF00&color=0D1117" />
+  <img src="https://img.shields.io/badge/FRONTEND_DEVELOPER-0D1117?style=for-the-badge&labelColor=4D90FE&color=0D1117" />
+  <img src="https://img.shields.io/badge/AUTOMATION_SPECIALIST-0D1117?style=for-the-badge&labelColor=FF5733&color=0D1117" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_ARCHITECT-0D1117?style=for-the-badge&labelColor=00D1FF&color=0D1117" />
   <img src="https://img.shields.io/badge/GOLD_MEDALIST_ENGINEER-0D1117?style=for-the-badge&labelColor=FFD700&color=0D1117" />
 </p>
 
