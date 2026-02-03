@@ -1,75 +1,77 @@
-# <p align="center">⚡ ADNAN YAR | SYSTEM ARCHITECT ⚡</p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adnanyar&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=300&section=header&text=ADNAN%20YAR&fontSize=90&animation=twinkling&fontAlignY=40&desc=FULL%20STACK%20GALAXY%20ARCHITECT&descAlignY=62&descFontSize=25&fontColor=00D1FF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=ELITE+FULL+STACK+ENGINEER;AI+AUTOMATION+ARCHITECT;GOLD+MEDALIST+DEVELOPER;SCALABLE+SAAS+SPECIALIST" alt="Cyber Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=A97CF8&center=true&vCenter=true&width=600&lines=🚀+Architecting+the+Digital+Universe;👾+Full+Stack+SaaS+Nebula;✨+AI+Automation+Supernova;🥇+Gold+Medalist+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adnanyar&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Trophies" />
 </p>
 
 ---
 
-## 🛰️ Orbital Overview
-> **"Engineering is not just about solving problems; it is about creating future-proof systems."**
+## 🛰️ Orbital Command Center
+> **"Beyond the code lies an infinite universe of possibilities."**
 
-I am a **Gold Medalist Software Engineer** and **AWS Certified Practitioner** dedicated to architecting high-concurrency digital ecosystems. I specialize in the convergence of **Real-Time Data**, **Artificial Intelligence**, and **Scalable Backend Infrastructure**.
+I am a **Gold Medalist Software Engineer** and **AWS Certified Cloud Architect**. I specialize in building high-concurrency systems that act as the gravity for modern SaaS platforms. My mission is to turn complex data into streamlined, celestial user experiences.
 
-* 🚀 **Efficiency:** Optimized 20+ platforms with up to 60% reduction in latency.
-* 🧠 **Intelligence:** Integrating Neural Networks and LLMs into production SaaS.
-* 🛡️ **Security:** Architecting military-grade OAuth2 and JWT-protected systems.
+* 🌠 **Expertise:** Deep-space Backend (Laravel/Node) & Stellar Frontend (React/Next).
+* 🛰️ **Connectivity:** Real-time WebSockets & Event-driven architectures.
+* 🌌 **Scalability:** Architecting systems that expand like the universe.
 
 ---
 
-## 🧬 Core Architecture (3D Tech Stack)
+## 🧬 Technical Constellations (3D Stack)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,nodejs,express,laravel,php,python,fastapi,mongodb,postgres,mysql,redis,aws,docker,linux,githubactions&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,nodejs,express,laravel,php,python,fastapi,mongodb,postgres,mysql,redis,aws,docker,linux,githubactions,git&perline=9" />
   </a>
 </p>
 
 ---
 
-## 📊 Neural Analytics (3D Isometric Data)
+## 📊 Galactic Metrics (Isometric Stats)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnanyar&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnanyar&theme=tokyonight" width="32.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnanyar&theme=tokyonight" width="32.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adnanyar&theme=tokyonight" width="32.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnanyar&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnanyar&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adnanyar&theme=tokyonight" width="32%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00D1FF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=A97CF8" width="100%" />
 </p>
 
 ---
 
-## 🛠️ High-Impact Deployments (SaaS Labs)
+## 🛠️ High-Impact Deployments (SaaS Nebula)
 
-<table align="center">
+<table align="center" style="background-color: #0D1117;">
   <tr>
     <td width="50%">
-      <h3>🚀 ChattersHub CRM</h3>
-      <p><i>The Future of Lead Management.</i> A real-time engine built on Node.js/Next.js that handles 10k+ concurrent requests.</p>
+      <h3>🛸 ChattersHub CRM</h3>
+      <p>A mission-critical Lead Management engine handling 10k+ concurrent requests with zero-gravity latency.</p>
     </td>
     <td width="50%">
-      <h3>🏥 MediNursing AI</h3>
-      <p><i>Intelligent Healthcare.</i> A Python-driven triage assistant leveraging FastAPI for near-zero latency response.</p>
+      <h3>🪐 MediNursing AI</h3>
+      <p>An intelligent medical assistant leveraging deep-learning stardust to automate patient triage.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📅 Pindot Sync Engine</h3>
-      <p><i>Universal Connection.</i> A complex WebSocket-based sync engine for global calendar harmonization.</p>
+      <h3>☄️ Pindot Sync</h3>
+      <p>Real-time cosmic synchronization for calendars across Android, iOS, and Web platforms.</p>
     </td>
     <td width="50%">
-      <h3>🏠 Lease Match NYC</h3>
-      <p><i>AI Matchmaking.</i> Geospatial property matching using advanced Laravel logic and AI scoring.</p>
+      <h3>⭐ Lease Match NYC</h3>
+      <p>AI-powered matchmaking engine designed to find the perfect space in the urban galaxy.</p>
     </td>
   </tr>
 </table>
@@ -78,11 +80,11 @@ I am a **Gold Medalist Software Engineer** and **AWS Certified Practitioner** de
 
 ## 🏆 Professional Trajectory
 
-**💠 Senior Software Developer | 5D Solutions LLC**
-> *Architecting the next generation of UAE-based ERP & SaaS platforms.*
+**🌠 Senior Software Developer | 5D Solutions LLC**
+> *Architecting enterprise SaaS ecosystems for the UAE market.*
 
-**💠 Web Developer | Comtanix**
-> *Scaled internal order management systems, boosting productivity by 60%.*
+**🌠 Web Developer | Comtanix**
+> *Engineered automated workflows, increasing business velocity by 60%.*
 
 ---
 
@@ -94,9 +96,5 @@ I am a **Gold Medalist Software Engineer** and **AWS Certified Practitioner** de
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS_ONLINE-00D1FF?style=for-the-badge&labelColor=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=20&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&text=SEE%20YOU%20IN%20THE%20COSMOS&fontSize=20&fontColor=A97CF8" width="100%" />
 </p>
