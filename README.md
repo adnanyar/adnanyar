@@ -1,3 +1,4 @@
+<!-- Header Section with Futuristic Gradient & Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM_ARCHITECT-0D1117?style=for-the-badge&labelColor=00D1FF&color=0D1117" />
   <img src="https://img.shields.io/badge/GOLD_MEDALIST_ENGINEER-0D1117?style=for-the-badge&labelColor=FFD700&color=0D1117" />
@@ -6,14 +7,14 @@
   <img src="https://img.shields.io/badge/AUTOMATION_SPECIALIST-0D1117?style=for-the-badge&labelColor=FF5733&color=0D1117" />
 </p>
 
-# <p align="center">🌠 **ADNAN YAR** | **FULL STACK DEVELOPER** 🌠</p>
+# <p align="center" style="color: #A97CF8; font-family: 'Orbitron', sans-serif;">🌠 **ADNAN YAR** | **FULL STACK DEVELOPER** 🌠</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=ELITE+FULL+STACK+ENGINEER;AI+AUTOMATION+SPECIALIST;AWS+CLOUD+ARCHITECT;SAAS+PRODUCT+STRATEGIST" alt="Cosmic Typing" />
 </p>
 
-<div align="center" style="background: linear-gradient(45deg, #00D1FF, #4D90FE, #FFD700); padding: 20px; border-radius: 10px;">
-  <p style="font-size: 18px; color: #fff; font-family: 'Orbitron', sans-serif;">**Bridging the gap between human ideas and digital reality.**  
+<div align="center" style="background: linear-gradient(45deg, #00D1FF, #4D90FE, #FFD700); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+  <p style="font-size: 20px; color: white; font-family: 'Orbitron', sans-serif; font-weight: bold;">**Bridging the gap between human ideas and digital reality.**  
   A high-performance **Full Stack Architect** combining **AI Intelligence** with **Scalable Systems** to propel businesses into the future.</p>
 </div>
 
@@ -21,10 +22,12 @@
 
 ## 🛰️ **ORBITAL COMMAND BRIEF**
 
-- 🥇 **Gold Medalist in Software Engineering** - Excellence in academics, achieving top rank in my batch.
-- ☁️ **Cloud Infrastructure** - AWS Certified Practitioner for secure and global scaling.
-- 🤖 **AI Integration** - Specialized in integrating **Large Language Models** (LLM) and **Intelligent Automation**.
-- ⚡ **Performance** - Achieved a **60% reduction** in manual work and operational latency by automating systems.
+**🌐** I am a high-performance **Full Stack Architect** with a mission to eliminate manual inefficiency. Merging **scalable backend systems** with **AI intelligence**, I design solutions that empower businesses to innovate and thrive.
+
+* 🥇 **Gold Medalist in Software Engineering**  
+* ☁️ **AWS Certified Practitioner** - Global, secure scaling expertise.
+* 🤖 **AI Integration Expert** - Specialized in LLM workflows and intelligent automation.
+* ⚡ **Performance Architect** - **60% reduction** in latency and manual work.
 
 ---
 
@@ -34,6 +37,7 @@
   <img src="https://img.shields.io/badge/FRONTEND-React%20|%20Next%20|%20Vue%20|%20Tailwind-A97CF8?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/BACKEND-Laravel%20|%20Node%20|%20FastAPI%20|%20PHP-00D1FF?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/DATABASE-Postgres%20|%20Mongo%20|%20MySQL%20|%20Redis-58a6ff?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/DEVOPS-AWS%20|%20Docker%20|%20CI/CD%20|%20Git-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -67,11 +71,11 @@
 ### **💠 Senior Software Developer | 5D Solutions LLC**
 *October 2022 - Present*  
 * **Mission:** Architecting enterprise-level ERP and SaaS platforms.
-* **Impact:** Delivered 3+ high-concurrency modules, enhancing system automation by **20%**.
+* **Impact:** Delivered **3+ high-concurrency modules**, enhancing system automation by **20%**.
 
 ### **💠 Web Developer | Comtanix**
 *May 2023 - February 2025*  
-* **Mission:** Engineering Order Management Solutions (OMS).
+* **Mission:** Engineering **Order Management Solutions (OMS)**.
 * **Impact:** Boosted team productivity by **60%** and automated **90%** of social posting workflows.
 
 ---
@@ -85,6 +89,7 @@
 ---
 
 ## 📡 **TERMINAL CONNECTION**
+
 <p align="center">
   <a href="https://linkedin.com/in/adnanyar">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
