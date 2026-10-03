@@ -1,104 +1,250 @@
-<!-- Header Section with Futuristic Gradient & Badges -->
-<p align="center"> <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-0D1117?style=for-the-badge&labelColor=00D1FF&color=0D1117" /> <img src="https://img.shields.io/badge/SYSTEM_ARCHITECT-0D1117?style=for-the-badge&labelColor=00D1FF&color=0D1117" /> <img src="https://img.shields.io/badge/GOLD_MEDALIST_ENGINEER-0D1117?style=for-the-badge&labelColor=FFD700&color=0D1117" /> <img src="https://img.shields.io/badge/ERP_SPECIALIST-0D1117?style=for-the-badge&labelColor=00FF00&color=0D1117" /> <img src="https://img.shields.io/badge/FRONTEND_DEVELOPER-0D1117?style=for-the-badge&labelColor=4D90FE&color=0D1117" /> <img src="https://img.shields.io/badge/AUTOMATION_SPECIALIST-0D1117?style=for-the-badge&labelColor=FF5733&color=0D1117" /> </p> <p align="center" style="font-family: 'Orbitron', sans-serif; color: #A97CF8; font-size: 36px;">**🌐 THE FUTURE IS NOW. 🌐**</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=ELITE+FULL+STACK+ENGINEER;AI+AUTOMATION+SPECIALIST;AWS+CLOUD+ARCHITECT;SAAS+PRODUCT+STRATEGIST" alt="Cosmic Typing" />
-<p align="center">
-  <div align="center" style="background: linear-gradient(135deg, #00D1FF, #4D90FE, #FFD700); padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
-    <p style="font-size: 20px; color: white; font-family: 'Orbitron', sans-serif; font-weight: bold;">
-      <b>Bridging the gap between human ideas and digital reality.</b>  
-      <b>A high-performance</b> <b>Full Stack Architect</b> <b> Combining AI Intelligence with Scalable Systems to propel businesses into the future.</b>  
-    </p>
-  </div>
-</p>
-
----
-
-
-## 🛰️ **ORBITAL COMMAND BRIEF**
-
-**🌐** I am a high-performance **Full Stack Architect** with a mission to eliminate manual inefficiency. Merging **scalable backend systems** with **AI intelligence**, I design solutions that empower businesses to innovate and thrive.
-
-* 🥇 **Gold Medalist in Software Engineering**  
-* ☁️ **AWS Certified Practitioner** - Global, secure scaling expertise.
-* 🤖 **AI Integration Expert** - Specialized in LLM workflows and intelligent automation.
-* ⚡ **Performance Architect** - **60% reduction** in latency and manual work.
-
----
-
-## 🧬 **TECHNICAL CONSTELLATIONS**
+<!--
+  ADNAN YAR — SYSTEMS NOTEBOOK
+  GitHub profile README. Requires the /assets folder (boot.svg, system-map.svg, eof.svg)
+  to sit next to this file in the adnanyar/adnanyar profile repository.
+  Lines marked VERIFY are claims carried over from the previous README: confirm before publishing.
+-->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FRONTEND-React%20|%20Next%20|%20Vue%20|%20Tailwind-A97CF8?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/BACKEND-Laravel%20|%20Node%20|%20FastAPI%20|%20PHP-00D1FF?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="assets/boot.svg" width="100%" alt="AY/LAB systems notebook boots: mounts research, intelligence, software, automation and products, links them into systems, and resolves into the name Adnan Yar, software engineer, systems architect, builder. Status: building." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DATABASE-Postgres%20|%20Mongo%20|%20MySQL%20|%20Redis-58a6ff?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEVOPS-AWS%20|%20Docker%20|%20CI/CD%20|%20Git-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <sub>the working notebook of <b>Adnan Yar</b>: software engineer, full-stack systems architect, builder of AI-enabled products</sub>
 </p>
 
----
+<br />
 
-## 🛠️ **HIGH-IMPACT SYSTEM DEPLOYMENTS**
+## 01 — Signal
 
-| **System** | **Cosmic Stack** | **Mission Impact** |
-| :--- | :--- | :--- |
-| **🚀 ChattersHub CRM** | `Next.js` `Node.js` | **60% reduction** in manual lead handling time. |
-| **🏥 MediNursing AI** | `FastAPI` `Python` | AI-powered medical triage assistant for fast response. |
-| **📅 Pindot Sync** | `Laravel` `WebSocket` | Real-time global calendar synchronization. |
-| **🏠 Lease Match NYC** | `Laravel` `Vue.js` | Intelligent AI matchmaking for real estate scaling. |
+I build software that takes manual work out of how organisations run: CRMs, ERP modules, order management, real-time sync. More and more, I also build the AI layer that sits inside those systems.
 
----
+The work moves through four stages. First I write the code, then I design the system around it. Next I ask whether it should exist at all, and finally I turn the answer into a product. The last stage is where **Sysmalla** and **DevDevise** come in.
 
-## 💬 **CLIENT SUCCESS STORIES** *(The Human Element)*
+<!-- VERIFY: AWS certification. Official name is "AWS Certified Cloud Practitioner". Remove the line if not currently held. -->
+```text
+role      software engineer · full-stack · systems architect
+focus     AI / LLM integration · automation · SaaS · R&D
+record    gold medalist, software engineering
+          AWS Certified Cloud Practitioner
+building  sysmalla → devdevise → products
+```
 
-> **"Adnan transformed our manual tracking into a 100% automated machine. Our efficiency increased by 40% in just two months."**  
-> — *Operations Lead, Comtanix*
+<br />
 
-> **"The CRM he built handles our traffic with zero downtime. His architectural knowledge is top-tier."**  
-> — *Founder, 5D Solutions LLC*
+## 02 — The system map
 
----
-
-## 🏆 **CAREER TRAJECTORY**
-
-### **💠 Senior Software Developer | 5D Solutions LLC**
-*October 2022 - Present*  
-* **Mission:** Architecting enterprise-level ERP and SaaS platforms.
-* **Impact:** Delivered **3+ high-concurrency modules**, enhancing system automation by **20%**.
-
-### **💠 Web Developer | Comtanix**
-*May 2023 - February 2025*  
-* **Mission:** Engineering **Order Management Solutions (OMS)**.
-* **Impact:** Boosted team productivity by **60%** and automated **90%** of social posting workflows.
-
----
-
-## 📊 **GALACTIC ANALYTICS**
+Every project I take on passes through this loop. The arrows matter more than the boxes.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00D1FF" width="100%" />
+  <img src="assets/system-map.svg" width="100%" alt="System map. Research produces questions, which pass through an intelligence layer of LLMs and AI workflows, then into three build tracks: software, automation and products. All three converge into systems running in production. A feedback loop returns from systems to research." />
 </p>
 
----
+<details>
+<summary><b>margin note A</b> · reading the map</summary>
+<br />
 
-## 📡 **TERMINAL CONNECTION**
+1. **Research** starts with a question, not a feature request. *Why is this still done by hand?*
+2. **Intelligence** decides where an LLM or an AI workflow actually helps, and where plain deterministic code is the better answer.
+3. **Build** splits three ways: *software* (the application and its architecture), *automation* (the work it removes) and *products* (the parts worth turning into something others can use).
+4. **Systems** are the output: deployed and used.
+5. The **feedback loop** is the point. Whatever a running system teaches goes back into research.
+
+</details>
+
+### What I build
+
+| System class | What that means in practice | On record |
+| :-- | :-- | :-- |
+| **AI systems** | LLM workflows embedded in real applications | MediNursing AI, Lease Match NYC |
+| **Real-time systems** | state that stays consistent across users, live | Pindot Sync |
+| **SaaS & ERP platforms** | multi-module business platforms built to scale | 5D Solutions |
+| **Automation** | pipelines that replace repetitive operational work | ChattersHub, Comtanix OMS |
+| **Data & intelligence** | relational, document and cache layers that feed decisions | across all of the above |
+| **Product engineering** | taking an idea from first sketch to a shipped product | DevDevise |
+| **Cloud infrastructure** | AWS, containers, delivery pipelines | across all of the above |
+
+<br />
+
+## 03 — Architecture
+
+My default stack, drawn as layers rather than a list of logos:
+
+```text
+ ┌─ INTERFACE ─────────────────────────────────────┐
+ │  React · Next.js · Vue · Tailwind CSS           │
+ └────────────────────────┬────────────────────────┘
+                          │  HTTP · WebSocket
+ ┌─ APPLICATION ──────────┴────────────────────────┐
+ │  Laravel · PHP · Node.js · Python · FastAPI     │
+ └───────────┬─────────────────────────────────┬───┘
+             │                                 │
+ ┌─ DATA ────┴───────────┐ ┌─ INTELLIGENCE ────┴───┐
+ │  PostgreSQL · MySQL   │ │  LLMs · AI workflows  │
+ │  MongoDB · Redis      ├─┤  RAG · embeddings     │
+ └───────────────────────┘ └───────────────────────┘
+ ══════════════════ INFRASTRUCTURE ═════════════════
+     AWS · Docker · CI/CD · Git
+```
+
+<details>
+<summary><b>margin note B</b> · engineering principles</summary>
+<br />
+
+- **Automate the boring part first.** It's usually where the errors live.
+- **Put an LLM only where its output is cheap to verify.** Everywhere else, write the rule.
+- **Real-time is a promise.** Design for the moment the network breaks it.
+- **Boring infrastructure, interesting products.** Novelty belongs in what users touch.
+- **Measure before and after.** If it wasn't measured, it didn't improve.
+
+</details>
+
+<br />
+
+## 04 — Shipped
+
+Selected systems, each written up as a short case file.
+
+<!-- VERIFY: "60% reduction in manual lead handling time" is carried over from the previous README. Keep it only if you can back it up. -->
+```text
+SHIP-01  CHATTERSHUB CRM
+problem  lead handling depended on manual effort
+system   CRM built around automating the lead pipeline
+stack    Next.js · Node.js
+outcome  60% reduction in manual lead-handling time
+```
+
+<!-- VERIFY: prototype or deployed? Medical triage claims draw scrutiny; describe the actual scope. -->
+```text
+SHIP-02  MEDINURSING AI
+problem  triage needs a fast, consistent first response
+system   AI-powered medical triage assistant
+stack    Python · FastAPI
+aim      faster first response in triage
+```
+
+```text
+SHIP-03  PINDOT SYNC
+problem  calendars drift apart when edits happen everywhere
+system   real-time, global calendar synchronization
+stack    Laravel · WebSocket
+aim      one calendar state, live, for every user
+```
+
+<!-- VERIFY: confirm the matchmaking actually uses AI/ML and not rule-based matching. -->
+```text
+SHIP-04  LEASE MATCH NYC
+problem  matching renters to listings doesn't scale by hand
+system   AI-assisted matchmaking for NYC real estate
+stack    Laravel · Vue.js
+aim      scale matching without scaling manual work
+```
+
+<br />
+
+## 05 — Active systems
+
+What's running right now, beyond client work:
+
+<!-- TODO: add a one-line description for task4task and civicpulse, and link each to a repo or site when public. -->
+```text
+$ status --all
+
+● sysmalla     umbrella · company ecosystem      ACTIVE
+● devdevise    build arm · products, R&D         ACTIVE
+● task4task    product                           IN DEV
+● civicpulse   product                           IN DEV
+```
+
+<br />
+
+## 06 — Lab
+
+Some of my work is open questions rather than tickets. These are the ones my projects keep raising:
+
+`Q-01` &nbsp;Where does an LLM belong inside a business workflow, and where should it be kept out?<br />
+`Q-02` &nbsp;How much of an operation can be automated before it becomes brittle?<br />
+`Q-03` &nbsp;What should an AI assistant in a medical setting refuse to decide?<br />
+`Q-04` &nbsp;What does a real-time system owe its users when the network stops cooperating?<br />
+`Q-05` &nbsp;When does a client system become a product?
+
+<details>
+<summary><b>margin note C</b> · how an idea moves through the lab</summary>
+<br />
+
+```text
+question ─▶ sketch ─▶ prototype ─▶ harden ─▶ ship
+   ▲                                          │
+   └──────────── what shipping teaches ◀──────┘
+```
+
+Most ideas stop at *sketch*, and that's the point of the process. An idea only becomes a prototype once it has a user, a measurable outcome and a reason it can't be a spreadsheet. Anything that survives *harden* is a candidate to become a DevDevise product.
+
+<!-- TODO: when an experiment is public, list it here:
+`EXP-01` **name** · one-line hypothesis · [repo](https://github.com/adnanyar/...)
+-->
+
+</details>
+
+<br />
+
+## 07 — Vector
+
+```text
+engineer → architect → researcher → builder → founder
+                                            ▲
+                                       now: here
+```
+
+<!-- VERIFY: "learning" is a placeholder written from your stated direction. Replace it with what you are actually studying. -->
+```text
+building     products under Sysmalla / DevDevise
+researching  LLM workflows inside real business systems
+learning     running R&D as a discipline, not a side effect
+heading      from building for clients to building my own
+```
+
+<br />
+
+## 08 — Record
+
+<!-- VERIFY: the two roles overlap (May 2023 – Feb 2025). Confirm both dates and the "Senior" title. Confirm the 3+, 20%, 60% and 90% figures. -->
+| When | Role | What it involved |
+| :-- | :-- | :-- |
+| 2022 → now | **Senior Software Developer**, 5D Solutions LLC | Enterprise ERP and SaaS platforms. Delivered 3+ high-concurrency modules and raised system automation by about 20%. |
+| 2023 → 2025 | **Web Developer**, Comtanix | Order management systems (OMS). Automated about 90% of social-posting workflows and raised team productivity by about 60%. |
+| — | **Gold Medalist**, Software Engineering | |
+
+<details>
+<summary><b>margin note D</b> · telemetry</summary>
+<br />
 
 <p align="center">
-  <a href="https://linkedin.com/in/adnanyar">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adnanyar143@gmail.com">
-    <img src="https://img.shields.io/badge/SYSTEM_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.adnanyar.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&bg_color=0B0D10&color=6E7681&line=00D1FF&point=A97CF8&area=true&area_color=00D1FF&hide_border=true&radius=8" width="100%" alt="Contribution activity graph for adnanyar over the last 31 days" />
 </p>
+
+</details>
+
+<br />
+
+## 09 — Channel
+
+```text
+$ open channel --to adnan.yar
+  connected.  reply latency: human.
+```
+
+| Channel | Address |
+| :-- | :-- |
+| mail | [adnanyar143@gmail.com](mailto:adnanyar143@gmail.com) |
+| linkedin | [linkedin.com/in/adnanyar](https://linkedin.com/in/adnanyar) |
+| web | [adnanyar.com](https://www.adnanyar.com) |
+| github | you're already here |
+
+Open to conversations about **AI systems, automation, SaaS architecture and product R&D**.
+
+<br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS_ONLINE-00D1FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="assets/eof.svg" width="100%" alt="End of current entries. The notebook stays open." />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=20&section=footer" width="100%" />
-</p>
-
