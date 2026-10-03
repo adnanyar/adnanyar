@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 580" width="880" height="580" role="img" aria-labelledby="title desc">
+  <title id="title">The landscape — how the areas of my work feed each other</title>
+  <desc id="desc">Three tiers, read bottom to top. Foundations: backend and distributed systems, and systems architecture. Materials: AI and LLM systems, data and knowledge systems, and automation. Delivered: intelligent software systems and product engineering. Architecture feeds backend and automation; backend feeds AI, data and automation; data feeds AI; AI, data and automation feed intelligent systems, which feed product engineering. Each area lists the work that touches it.</desc>
+  <style>
+    .sans{font-family:'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+    .m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .t{fill:#EEF1F8;font-size:15px;font-weight:600}
+    .ev{fill:#9AA3B8;font-size:11px}
+    .tier{fill:#6B7489;font-size:11px;letter-spacing:2px}
+    .n{fill:#0B1120;stroke:#94AAFF;stroke-opacity:.3;stroke-width:1.3}
+    .n0{fill:#081521;stroke:#35E3FF;stroke-opacity:.75;stroke-width:1.3}
+    .e{fill:none;stroke:#3A4766;stroke-width:1.3}
+  </style>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#94AAFF" stroke-opacity=".045"/>
+    </pattern>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#4A5878"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="878" height="578" rx="14" fill="#04060B" stroke="#161D2E" stroke-width="2"/>
+  <rect x="2" y="46" width="876" height="490" fill="url(#grid)"/>
+
+  <text class="m" x="28" y="30" font-size="12" letter-spacing="2" font-weight="700" fill="#35E3FF">FIG. 1</text>
+  <text class="m" x="88" y="30" font-size="12" letter-spacing="1" fill="#6B7489">— THE LANDSCAPE</text>
+  <text class="m" x="852" y="30" font-size="12" letter-spacing="1" fill="#6B7489" text-anchor="end">arrows read “feeds”</text>
+  <line x1="1" y1="46" x2="879" y2="46" stroke="#161D2E" stroke-width="1.5"/>
+
+  <!-- tier labels -->
+  <g class="m">
+    <text class="tier" x="40" y="80">DELIVERED</text>
+    <text class="tier" x="40" y="240">MATERIALS</text>
+    <text class="tier" x="40" y="400">FOUNDATIONS</text>
+  </g>
+
+  <!-- edges -->
+  <g marker-end="url(#ah)">
+    <path id="aI" class="e" d="M165 250V205H255V162"/>
+    <path id="dI" class="e" d="M440 250V220H300V162"/>
+    <path id="uI" class="e" d="M715 250V190H330V162"/>
+    <path id="iP" class="e" d="M420 125H458"/>
+    <path id="dA" class="e" d="M315 285H292"/>
+    <path id="bA" class="e" d="M235 410V372H165V322"/>
+    <path id="bD" class="e" d="M335 410V372H420V322"/>
+    <path id="bU" class="e" d="M370 410V392H700V322"/>
+    <path id="rB" class="e" d="M460 445H422"/>
+    <path id="rU" class="e" d="M730 445H770V322"/>
+  </g>
+
+  <!-- nodes -->
+  <g class="sans">
+    <rect class="n0" x="150" y="90" width="270" height="70" rx="8"/>
+    <text class="t" x="168" y="118">Intelligent software systems</text>
+    <text class="m ev" x="168" y="142">CivicPulse · Agrimonitor (R&amp;D)</text>
+
+    <rect class="n0" x="460" y="90" width="270" height="70" rx="8"/>
+    <text class="t" x="478" y="118">Product engineering</text>
+    <text class="m ev" x="478" y="142">Task4Task · CivicPulse</text>
+
+    <rect class="n" x="40" y="250" width="250" height="70" rx="8"/>
+    <text class="t" x="58" y="278">AI &amp; LLM systems</text>
+    <text class="m ev" x="58" y="302">medical RAG · Lease Match</text>
+
+    <rect class="n" x="315" y="250" width="250" height="70" rx="8"/>
+    <text class="t" x="333" y="278">Data &amp; knowledge</text>
+    <text class="m ev" x="333" y="302">pgvector · realtime data</text>
+
+    <rect class="n" x="590" y="250" width="250" height="70" rx="8"/>
+    <text class="t" x="608" y="278">Automation</text>
+    <text class="m ev" x="608" y="302">ERP · OMS · syndication</text>
+
+    <rect class="n" x="150" y="410" width="270" height="70" rx="8"/>
+    <text class="t" x="168" y="438">Backend &amp; distributed</text>
+    <text class="m ev" x="168" y="462">WebSockets · Redis · RabbitMQ</text>
+
+    <rect class="n" x="460" y="410" width="270" height="70" rx="8"/>
+    <text class="t" x="478" y="438">Systems architecture</text>
+    <text class="m ev" x="478" y="462">outbox / events · microservices</text>
+  </g>
+
+  <!-- what flows up -->
+  <g fill="#35E3FF">
+    <circle r="3"><animateMotion dur="2.2s" repeatCount="indefinite" begin="0s"><mpath href="#bA"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="2.2s" repeatCount="indefinite" begin=".5s"><mpath href="#bD"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="2.8s" repeatCount="indefinite" begin="1s"><mpath href="#bU"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="1.2s" repeatCount="indefinite" begin=".3s"><mpath href="#rB"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="1.8s" repeatCount="indefinite" begin=".8s"><mpath href="#rU"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="1s" repeatCount="indefinite" begin="1.2s"><mpath href="#dA"/></animateMotion></circle>
+    <circle r="3" fill="#9D7BFF"><animateMotion dur="2s" repeatCount="indefinite" begin="1.4s"><mpath href="#aI"/></animateMotion></circle>
+    <circle r="3" fill="#9D7BFF"><animateMotion dur="2s" repeatCount="indefinite" begin="1.8s"><mpath href="#dI"/></animateMotion></circle>
+    <circle r="3" fill="#9D7BFF"><animateMotion dur="2.8s" repeatCount="indefinite" begin="2.2s"><mpath href="#uI"/></animateMotion></circle>
+    <circle r="3.5"><animateMotion dur="1s" repeatCount="indefinite" begin="2.6s"><mpath href="#iP"/></animateMotion></circle>
+  </g>
+
+  <line x1="1" y1="536" x2="879" y2="536" stroke="#161D2E" stroke-width="1.5"/>
+  <text class="m" x="28" y="562" font-size="11" letter-spacing="1" fill="#6B7489">A model of how the work fits together. Each area names work that touches it.</text>
+</svg>

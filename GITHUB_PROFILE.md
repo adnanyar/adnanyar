@@ -1,250 +1,357 @@
 <!--
-  ADNAN YAR — SYSTEMS NOTEBOOK
-  GitHub profile README. Requires the /assets folder (boot.svg, system-map.svg, eof.svg)
-  to sit next to this file in the adnanyar/adnanyar profile repository.
-  Lines marked VERIFY are claims carried over from the previous README: confirm before publishing.
+  ADNAN YAR · FROM SIGNAL TO SYSTEM
+  GitHub profile README for github.com/adnanyar/adnanyar.
+  Needs the /assets folder next to this file (hero, landscape, w001–w003, eof SVGs).
+  Palette and notation follow DevDevise: cyan = systems, violet = research, blue = links, amber = signal;
+  solid = built, dashed = proposed. Lines marked VERIFY need the author's confirmation before publishing.
 -->
 
+<a name="top"></a>
+
 <p align="center">
-  <img src="assets/boot.svg" width="100%" alt="AY/LAB systems notebook boots: mounts research, intelligence, software, automation and products, links them into systems, and resolves into the name Adnan Yar, software engineer, systems architect, builder. Status: building." />
+  <img src="assets/hero.svg" width="100%" alt="Adnan Yar, founder and CEO of DevDevise, software engineer who researches and builds intelligent software systems. Beside the name, the architecture of Task4Task assembles itself: dashed proposed parts swing onto a grid, turn solid, connect, and data starts to flow." />
 </p>
 
 <p align="center">
-  <sub>the working notebook of <b>Adnan Yar</b>: software engineer, full-stack systems architect, builder of AI-enabled products</sub>
+  <sub><b>Adnan Yar</b> · software engineer · founder &amp; CEO, DevDevise · AI systems · automation · SaaS · product engineering</sub>
+</p>
+
+<p align="center">
+  <sub>■ built &nbsp;·&nbsp; ◧ experimental &nbsp;·&nbsp; ⬚ proposed &nbsp;—&nbsp; every entry on this page carries a mark, and every number cites its source.</sub>
 </p>
 
 <br />
 
-## 01 — Signal
+<table align="center">
+  <tr>
+    <td align="center"><sub>ENTER AS</sub></td>
+    <td><b>an engineer</b><br /><sub><a href="#architecture">architecture</a> → <a href="#lab">lab</a> → <a href="#shipped">register</a></sub></td>
+    <td><b>a founder or partner</b><br /><sub><a href="#systems">systems</a> → <a href="#vector">vector</a> → <a href="#channel">channel</a></sub></td>
+    <td><b>hiring</b><br /><sub><a href="#shipped">shipped</a> → <a href="#record">record</a> → <a href="#channel">channel</a></sub></td>
+  </tr>
+</table>
 
-I build software that takes manual work out of how organisations run: CRMs, ERP modules, order management, real-time sync. More and more, I also build the AI layer that sits inside those systems.
+<br />
 
-The work moves through four stages. First I write the code, then I design the system around it. Next I ask whether it should exist at all, and finally I turn the answer into a product. The last stage is where **Sysmalla** and **DevDevise** come in.
+<a name="signal"></a>
 
-<!-- VERIFY: AWS certification. Official name is "AWS Certified Cloud Practitioner". Remove the line if not currently held. -->
+## 01 · Signal
+
+I'm a software engineer and founder. I build intelligent software systems, and I solve hard technical problems through structured engineering and research.
+
+I founded **DevDevise** around one idea: a strong system should be *devised* through investigation and evidence before it is engineered. DevDevise is a **SysMalla** company. SysMalla works on the business, and DevDevise works on the system.
+
+Alongside that, I've shipped CRMs, ERP modules, order management, calendar sync and AI matchmaking at software companies delivering across Pakistan and the GCC.
+
 ```text
-role      software engineer · full-stack · systems architect
-focus     AI / LLM integration · automation · SaaS · R&D
-record    gold medalist, software engineering
-          AWS Certified Cloud Practitioner
-building  sysmalla → devdevise → products
+name      Adnan Yar
+role      founder & CEO · DevDevise, SysMalla
+practice  software engineer · full-stack · systems architect
+focus     intelligent systems · AI / LLM · automation · SaaS
+record    ◆ gold medal, BS Software Engineering, KFUEIT
 ```
 
 <br />
 
-## 02 — The system map
+<a name="landscape"></a>
 
-Every project I take on passes through this loop. The arrows matter more than the boxes.
+## 02 · The landscape
+
+Read it from the bottom up. Foundations feed materials, materials feed what gets delivered, and every area names real work that touches it.
 
 <p align="center">
-  <img src="assets/system-map.svg" width="100%" alt="System map. Research produces questions, which pass through an intelligence layer of LLMs and AI workflows, then into three build tracks: software, automation and products. All three converge into systems running in production. A feedback loop returns from systems to research." />
+  <img src="assets/landscape.svg" width="100%" alt="Three tiers. Foundations: backend and distributed systems (WebSockets, Redis, RabbitMQ) and systems architecture (outbox events, microservices). Materials: AI and LLM systems (medical RAG, Lease Match), data and knowledge (pgvector, realtime data) and automation (ERP, OMS, syndication). Delivered: intelligent software systems (CivicPulse, Agrimonitor R&D) and product engineering (Task4Task, CivicPulse)." />
 </p>
 
 <details>
-<summary><b>margin note A</b> · reading the map</summary>
+<summary><b>margin note A</b> · reading the landscape</summary>
 <br />
 
-1. **Research** starts with a question, not a feature request. *Why is this still done by hand?*
-2. **Intelligence** decides where an LLM or an AI workflow actually helps, and where plain deterministic code is the better answer.
-3. **Build** splits three ways: *software* (the application and its architecture), *automation* (the work it removes) and *products* (the parts worth turning into something others can use).
-4. **Systems** are the output: deployed and used.
-5. The **feedback loop** is the point. Whatever a running system teaches goes back into research.
+- **Foundations** are the parts that have to keep running: throughput, latency, degraded modes, recovery. Architecture decides what the parts are, what each one is responsible for, and what happens when one fails.
+- **Materials** are what intelligence is made from: models, data and automation. Automation here means taking repeated human work out of a process *without* taking human judgement out of it.
+- **Delivered** is what people touch: software that makes decisions under uncertainty and knows when to hand a decision back to a person, wrapped in a product that shows its reasoning instead of hiding it.
+
+The map is a model of how the work fits together. It isn't a claim that every arrow has carried production traffic.
 
 </details>
 
-### What I build
+<br />
 
-| System class | What that means in practice | On record |
-| :-- | :-- | :-- |
-| **AI systems** | LLM workflows embedded in real applications | MediNursing AI, Lease Match NYC |
-| **Real-time systems** | state that stays consistent across users, live | Pindot Sync |
-| **SaaS & ERP platforms** | multi-module business platforms built to scale | 5D Solutions |
-| **Automation** | pipelines that replace repetitive operational work | ChattersHub, Comtanix OMS |
-| **Data & intelligence** | relational, document and cache layers that feed decisions | across all of the above |
-| **Product engineering** | taking an idea from first sketch to a shipped product | DevDevise |
-| **Cloud infrastructure** | AWS, containers, delivery pipelines | across all of the above |
+<a name="systems"></a>
+
+## 03 · Systems in development
+
+These products are built through DevDevise. They're real and active. No user, revenue or accuracy figures are published yet, so none are claimed here.
+
+<p align="center">
+  <img src="assets/w001-task4task.svg" width="100%" alt="W-001 Task4Task: a task travels through six states, created, proposed, contracted, traveling, working and completed. Built with Expo and React Native, Next.js, REST, WebSockets, Redis, outbox events and Leaflet with OpenStreetMap." />
+</p>
+
+■ **Task4Task** is a two-sided marketplace (Hiring, and Getting Work) where a task is either paid or traded for work through barter and credits. In-person tasks get live location, worker travel tracking and coordination on a map. State changes go through an outbox, so the rest of the system hears about them reliably.
 
 <br />
 
-## 03 — Architecture
+<p align="center">
+  <img src="assets/w002-civicpulse.svg" width="100%" alt="W-002 CivicPulse: a saved place with a radius; alerts inside the radius come forward and the rest recede. Steps: place, signals, relevance, voice alert transcribed to English, community response. Built with Expo and React Native, a Next.js admin and Firebase Realtime Database." />
+</p>
 
-My default stack, drawn as layers rather than a list of logos:
+■ **CivicPulse** is AI community intelligence. Information is abundant, but local relevance is hard. CivicPulse decides what matters to a person from where they are and the places they care about. An alert can start as a voice note, transcribed to English, and the community's responses arrive in real time.
+
+<br />
+
+<p align="center">
+  <img src="assets/w003-agrimonitor.svg" width="100%" alt="W-003 Agrimonitor, R&D concept drawn dashed: a field observed by repeated satellite passes, a condition first detected and expanding, and a chain from sensing to processing to analysis to insight. No results yet." />
+</p>
+
+◧ **Agrimonitor** is R&D, not a product. It asks whether satellite imagery and environmental signals can show crop stress, moisture, temperature and change before they're visible from the ground. It's drawn dashed because none of it is presented as built.
+
+<br />
+
+<a name="shipped"></a>
+
+## 04 · Shipped
+
+Systems delivered as an engineer, before and alongside DevDevise. Each case file reads *problem → system → stack → outcome*. Where no result was measured, the file says **aim** instead of **outcome**.
+
+<!-- VERIFY: the 60% figure is carried over from the previous README and is not on the resume. Keep it only if you can back it up. -->
+```text
+■ SHIP-01  CHATTERSHUB CRM
+problem  lead handling depended on manual effort
+system   CRM built around automating the lead pipeline
+stack    Next.js · React · Tailwind
+         Node.js · TypeScript · Express · MongoDB
+         AWS S3 · Docker
+outcome  60% reduction in manual lead-handling time
+```
+
+```text
+■ SHIP-02  SYNDICATION + ORDER MANAGEMENT · COMTANIX
+problem  posting to every channel by hand; slow order handling
+system   social-media syndication tool, and an OMS
+outcome  90% of posting workflows automated
+         +30% digital engagement
+         +60% team productivity (OMS)
+```
+
+```text
+■ SHIP-03  PINDOT CALENDAR SYNC
+problem  Google and CalDAV calendars drift apart
+system   synchronization between Google Calendar and
+         a CalDAV server (Baïkal)
+stack    Laravel · MySQL · Google Calendar API · CalDAV
+aim      one calendar, whichever client edits it
+```
+
+```text
+■ SHIP-04  LEASE MATCH NYC
+problem  matching renters to apartments by hand
+system   AI-powered apartment matchmaking platform
+stack    Express · React · Tailwind · MongoDB
+         OpenAI · geolocation
+aim      match renters to apartments by fit and place
+```
+
+<details>
+<summary><b>margin note B</b> · the full register</summary>
+<br />
+
+<!-- VERIFY: MediNursing AI comes from the previous README only. Confirm its scope (prototype or deployed) and stack. -->
+| | System | What it is | Stack |
+| :-: | :-- | :-- | :-- |
+| ■ | ChattersHub CRM | lead-pipeline CRM | Next.js, Node.js, TypeScript, MongoDB, AWS |
+| ■ | Comtanix syndication + OMS | posting automation, order management, e-commerce platform | — |
+| ■ | 5D Solutions ERP | 3+ ERP modules for a UAE-based ERP and SaaS company | — |
+| ■ | Pindot Calendar Sync | Google Calendar ↔ CalDAV sync | Laravel, MySQL |
+| ■ | Lease Match NYC | AI apartment matchmaking | Express, React, MongoDB, OpenAI |
+| ■ | MediNursing AI | AI medical triage assistant | Python, FastAPI |
+| ■ | Meraki LMS | learning management for institutions | Node.js, RabbitMQ, microservices, MySQL |
+| ■ | Meraki Examerz | nursing exam management | Next.js, MongoDB, push notifications |
+| ■ | Styzeler | hiring portal for hair & beauty spas | Laravel, Blade, MySQL |
+| ■ | KFUEIT LMS | finance modules of a university LMS | PHP MVC |
+| ■ | Task4Task · CivicPulse | products in development | see [03](#systems) |
+| ◧ | Agrimonitor | remote-sensing R&D | concept |
+
+</details>
+
+<br />
+
+<a name="architecture"></a>
+
+## 05 · Architecture
+
+The stack I reach for, drawn as layers instead of logos:
 
 ```text
  ┌─ INTERFACE ─────────────────────────────────────┐
  │  React · Next.js · Vue · Tailwind CSS           │
+ │  Expo / React Native                            │
  └────────────────────────┬────────────────────────┘
-                          │  HTTP · WebSocket
+                          │  REST · WebSockets · WebRTC
  ┌─ APPLICATION ──────────┴────────────────────────┐
- │  Laravel · PHP · Node.js · Python · FastAPI     │
+ │  Node.js · TypeScript · Express                 │
+ │  Laravel · PHP · Python · FastAPI               │
+ │  RabbitMQ · outbox / events · microservices     │
  └───────────┬─────────────────────────────────┬───┘
              │                                 │
  ┌─ DATA ────┴───────────┐ ┌─ INTELLIGENCE ────┴───┐
- │  PostgreSQL · MySQL   │ │  LLMs · AI workflows  │
- │  MongoDB · Redis      ├─┤  RAG · embeddings     │
+ │  PostgreSQL · MySQL   │ │  OpenAI · LLM flows   │
+ │  MongoDB · Redis      ├─┤  RAG · pgvector       │
+ │  Firebase RTDB        │ │  Whisper (speech)     │
  └───────────────────────┘ └───────────────────────┘
  ══════════════════ INFRASTRUCTURE ═════════════════
-     AWS · Docker · CI/CD · Git
+     AWS · Docker · CI/CD · Caddy · Git
 ```
 
 <details>
-<summary><b>margin note B</b> · engineering principles</summary>
+<summary><b>margin note C</b> · principles</summary>
 <br />
 
-- **Automate the boring part first.** It's usually where the errors live.
-- **Put an LLM only where its output is cheap to verify.** Everywhere else, write the rule.
-- **Real-time is a promise.** Design for the moment the network breaks it.
-- **Boring infrastructure, interesting products.** Novelty belongs in what users touch.
-- **Measure before and after.** If it wasn't measured, it didn't improve.
+**01 · Measure where the time goes first.** Before building anything, trace the problem end to end. It usually changes the goal.
+
+**02 · Know when not to answer.** Systems that hand uncertain cases to people are the ones people keep trusting.
+
+**03 · Keep the evidence, and the dead ends.** Every finding links to its experiments. Rejected ideas stay on the record.
 
 </details>
 
 <br />
 
-## 04 — Shipped
+<a name="lab"></a>
 
-Selected systems, each written up as a short case file.
+## 06 · Lab
 
-<!-- VERIFY: "60% reduction in manual lead handling time" is carried over from the previous README. Keep it only if you can back it up. -->
-```text
-SHIP-01  CHATTERSHUB CRM
-problem  lead handling depended on manual effort
-system   CRM built around automating the lead pipeline
-stack    Next.js · Node.js
-outcome  60% reduction in manual lead-handling time
-```
+Questions get the same treatment as systems: each one is stated before it's tested, and labelled honestly.
 
-<!-- VERIFY: prototype or deployed? Medical triage claims draw scrutiny; describe the actual scope. -->
-```text
-SHIP-02  MEDINURSING AI
-problem  triage needs a fast, consistent first response
-system   AI-powered medical triage assistant
-stack    Python · FastAPI
-aim      faster first response in triage
-```
+◧ `R-001` &nbsp;**Can a website demonstrate engineering reasoning instead of describing it?**<br />
+<sub>&emsp;&emsp;&emsp;&emsp;&emsp;The DevDevise site is the experiment. Accessibility audits, responsive checks and sequence timing were run on its own build.</sub>
 
-```text
-SHIP-03  PINDOT SYNC
-problem  calendars drift apart when edits happen everywhere
-system   real-time, global calendar synchronization
-stack    Laravel · WebSocket
-aim      one calendar state, live, for every user
-```
+⬚ `EX-01` &nbsp;Can a retrieval system reliably tell when it doesn't have the answer?<br />
+⬚ `EX-02` &nbsp;How long can a tool-using agent work before its errors compound past usefulness?<br />
+⬚ `EX-03` &nbsp;Can we tell that a model's input data has drifted before its accuracy drops?<br />
+<sub>&emsp;&emsp;&emsp;&emsp;&emsp;Structured as they would be run, with planned experiments. Not run yet, so no results.</sub>
 
-<!-- VERIFY: confirm the matchmaking actually uses AI/ML and not rule-based matching. -->
-```text
-SHIP-04  LEASE MATCH NYC
-problem  matching renters to listings doesn't scale by hand
-system   AI-assisted matchmaking for NYC real estate
-stack    Laravel · Vue.js
-aim      scale matching without scaling manual work
-```
+<!-- VERIFY: these three repos were found on your machine. Confirm they're yours and fine to mention; link them once public. -->
+**On the bench** ◧
 
-<br />
-
-## 05 — Active systems
-
-What's running right now, beyond client work:
-
-<!-- TODO: add a one-line description for task4task and civicpulse, and link each to a repo or site when public. -->
-```text
-$ status --all
-
-● sysmalla     umbrella · company ecosystem      ACTIVE
-● devdevise    build arm · products, R&D         ACTIVE
-● task4task    product                           IN DEV
-● civicpulse   product                           IN DEV
-```
-
-<br />
-
-## 06 — Lab
-
-Some of my work is open questions rather than tickets. These are the ones my projects keep raising:
-
-`Q-01` &nbsp;Where does an LLM belong inside a business workflow, and where should it be kept out?<br />
-`Q-02` &nbsp;How much of an operation can be automated before it becomes brittle?<br />
-`Q-03` &nbsp;What should an AI assistant in a medical setting refuse to decide?<br />
-`Q-04` &nbsp;What does a real-time system owe its users when the network stops cooperating?<br />
-`Q-05` &nbsp;When does a client system become a product?
+| Prototype | What it tests | Built with |
+| :-- | :-- | :-- |
+| MedQuery | a multi-tenant medical RAG API: ingestion, chunking, embeddings, retrieval and chat per workspace | FastAPI · PostgreSQL + pgvector · JWT |
+| Medical RAG assistant | documents, images and speech feeding one retrieval pipeline | Python · vector store · LLM client |
+| Audio Intelligence Parser | local speech-to-text, then strict structured extraction | FastAPI · Whisper · OpenAI · Next.js |
 
 <details>
-<summary><b>margin note C</b> · how an idea moves through the lab</summary>
+<summary><b>margin note D</b> · how a problem is devised into a system</summary>
 <br />
 
 ```text
-question ─▶ sketch ─▶ prototype ─▶ harden ─▶ ship
-   ▲                                          │
-   └──────────── what shipping teaches ◀──────┘
+01 PROBLEM    the problem, exactly as stated
+02 DECOMPOSE  phrases lift out; each becomes a part
+              of the system, or a limit on it
+03 INVENT     candidate mechanisms, drawn dashed;
+              rejected ones are marked ⊘ and stay
+04 ENGINEER   the chosen design snaps to the grid
+              and turns solid; limits become sizes
+05 RUN        a sample input travels through it,
+              and the readings appear
 ```
 
-Most ideas stop at *sketch*, and that's the point of the process. An idea only becomes a prototype once it has a user, a measurable outcome and a reason it can't be a spreadsheet. Anything that survives *harden* is a candidate to become a DevDevise product.
-
-<!-- TODO: when an experiment is public, list it here:
-`EXP-01` **name** · one-line hypothesis · [repo](https://github.com/adnanyar/...)
--->
+That's what the hero at the top of this page does, using Task4Task's architecture.
 
 </details>
 
 <br />
 
-## 07 — Vector
+<a name="vector"></a>
+
+## 07 · Vector
 
 ```text
 engineer → architect → researcher → builder → founder
-                                            ▲
-                                       now: here
+                                                ▲
+                                               now
 ```
 
-<!-- VERIFY: "learning" is a placeholder written from your stated direction. Replace it with what you are actually studying. -->
+<!-- VERIFY: "learning" is inferred from Agrimonitor's research needs. Replace it with what you're actually studying. -->
 ```text
-building     products under Sysmalla / DevDevise
-researching  LLM workflows inside real business systems
-learning     running R&D as a discipline, not a side effect
-heading      from building for clients to building my own
+building     Task4Task, CivicPulse · through DevDevise
+researching  Agrimonitor: field conditions from orbit
+learning     remote sensing: moisture, stress, change
+asking       when should a retrieval system say "I don't know"?
+direction    from client systems to systems of our own
 ```
 
 <br />
 
-## 08 — Record
+<a name="record"></a>
 
-<!-- VERIFY: the two roles overlap (May 2023 – Feb 2025). Confirm both dates and the "Senior" title. Confirm the 3+, 20%, 60% and 90% figures. -->
-| When | Role | What it involved |
+## 08 · Record
+
+<!-- VERIFY: dates and titles follow the resume (Software Developer, 02/2023). The previous README said "Senior Software Developer, October 2022". Use whichever is current and correct. -->
+| When | Where | What |
 | :-- | :-- | :-- |
-| 2022 → now | **Senior Software Developer**, 5D Solutions LLC | Enterprise ERP and SaaS platforms. Delivered 3+ high-concurrency modules and raised system automation by about 20%. |
-| 2023 → 2025 | **Web Developer**, Comtanix | Order management systems (OMS). Automated about 90% of social-posting workflows and raised team productivity by about 60%. |
-| — | **Gold Medalist**, Software Engineering | |
+| now | **Founder &amp; CEO** · DevDevise, SysMalla | R&D-driven software engineering: Task4Task, CivicPulse, Agrimonitor |
+| 2023 → now | **Software Developer** · 5D Solutions LLC | UAE-based ERP and SaaS across the GCC and Pakistan. 3+ ERP modules, +20% internal process automation. |
+| 2023 → 2025 | **Web Developer** · Comtanix | Syndication tool (90% of posting automated), OMS (+60% team productivity), e-commerce platform |
+| 2022 | **Interns** · Pixako Technologies, KFUEIT Data Center | Scrum sprints and deployment scripts; finance modules for the university LMS |
+| 2019 → 2023 | **BS Software Engineering** · KFUEIT | ◆ Gold medal for the highest academic performance in the batch |
+
+<sub>Certificates: AWS Practitioner (Coursera) · Certified in Cyber Security (NAVTTC)</sub>
 
 <details>
-<summary><b>margin note D</b> · telemetry</summary>
+<summary><b>margin note E</b> · claims ledger</summary>
+<br />
+
+Every number on this page, and where it comes from.
+
+| Claim | Source |
+| :-- | :-- |
+| Gold medal, highest academic performance in the batch | university record (resume) |
+| 3+ ERP modules · +20% internal process automation | 5D Solutions role (resume) |
+| 90% of posting workflows automated · +30% engagement | Comtanix role (resume) |
+| +60% team productivity from the OMS | Comtanix role (resume) |
+| +20% reporting accuracy, LMS finance modules | KFUEIT internship (resume) |
+| 60% reduction in manual lead-handling time | ChattersHub delivery |
+| Task4Task, CivicPulse: active, in development | DevDevise project records. No usage figures published. |
+| Agrimonitor: R&D, no results | DevDevise project records |
+
+</details>
+
+<details>
+<summary><b>margin note F</b> · telemetry</summary>
 <br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&bg_color=0B0D10&color=6E7681&line=00D1FF&point=A97CF8&area=true&area_color=00D1FF&hide_border=true&radius=8" width="100%" alt="Contribution activity graph for adnanyar over the last 31 days" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanyar&bg_color=04060B&color=6B7489&line=35E3FF&point=9D7BFF&area=true&area_color=35E3FF&hide_border=true" width="100%" alt="Contribution activity graph for adnanyar over the last 31 days" />
 </p>
 
 </details>
 
 <br />
 
-## 09 — Channel
+<a name="channel"></a>
+
+## 09 · Channel
 
 ```text
 $ open channel --to adnan.yar
-  connected.  reply latency: human.
+  connected · reply latency: human
 ```
 
-| Channel | Address |
+<!-- VERIFY: devdevise.com isn't deployed yet (its host currently serves an empty page). Remove the company row until it is. -->
+| | |
 | :-- | :-- |
 | mail | [adnanyar143@gmail.com](mailto:adnanyar143@gmail.com) |
 | linkedin | [linkedin.com/in/adnanyar](https://linkedin.com/in/adnanyar) |
 | web | [adnanyar.com](https://www.adnanyar.com) |
+| company | [devdevise.com](https://devdevise.com) · [hello@devdevise.com](mailto:hello@devdevise.com) |
 | github | you're already here |
 
-Open to conversations about **AI systems, automation, SaaS architecture and product R&D**.
+Open to conversations about **intelligent systems, AI and LLM engineering, automation, SaaS architecture and product R&D**.
 
 <br />
 
 <p align="center">
-  <img src="assets/eof.svg" width="100%" alt="End of current entries. The notebook stays open." />
+  <img src="assets/eof.svg" width="100%" alt="Notation: solid square built, half-filled square experimental, dashed square proposed; solid lines built, dashed lines proposed; cyan systems, violet research, blue links, amber signal. End of current entries; the notebook stays open." />
 </p>
+
+<p align="center"><sub><a href="#top">↑ back to the signal</a></sub></p>

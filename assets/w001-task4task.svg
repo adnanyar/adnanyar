@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="880" height="280" role="img" aria-labelledby="title desc">
+  <title id="title">W-001 Task4Task — a task's lifecycle</title>
+  <desc id="desc">A task moves through six states: created (paid or barter), proposed, contracted, traveling (live on the map), working, and completed, when both sides are notified. Status: active, in product development.</desc>
+  <style>
+    .sans{font-family:'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+    .m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .st{fill:#EEF1F8;font-size:13px;font-weight:600}
+    .sub{fill:#6B7489;font-size:10.5px}
+  </style>
+  <rect x="1" y="1" width="878" height="278" rx="14" fill="#04060B" stroke="#161D2E" stroke-width="2"/>
+
+  <g class="m" font-size="12" letter-spacing="1.5">
+    <rect x="28" y="20" width="10" height="10" fill="#35E3FF"/>
+    <text x="46" y="30" fill="#35E3FF" font-weight="700">W-001</text>
+    <text x="100" y="30" fill="#EEF1F8">TASK4TASK</text>
+    <text x="852" y="30" fill="#6B7489" text-anchor="end">ACTIVE · PRODUCT DEVELOPMENT</text>
+  </g>
+  <text class="sans" x="28" y="66" font-size="17" fill="#9AA3B8">A marketplace for paid tasks and barter. Pakistan first, then international.</text>
+
+  <!-- track -->
+  <line x1="90" y1="150" x2="790" y2="150" stroke="#2A3550" stroke-width="2"/>
+  <!-- the traveling leg, drawn as a route -->
+  <path d="M370 150C410 110 470 190 510 150S610 110 650 150" fill="none" stroke="#35E3FF" stroke-opacity=".35" stroke-width="1.3" stroke-dasharray="3 4"/>
+
+  <g fill="#0B1120" stroke="#94AAFF" stroke-opacity=".45" stroke-width="1.5">
+    <circle cx="90" cy="150" r="7"/><circle cx="230" cy="150" r="7"/><circle cx="370" cy="150" r="7"/>
+    <circle cx="510" cy="150" r="7"/><circle cx="650" cy="150" r="7"/><circle cx="790" cy="150" r="7"/>
+  </g>
+
+  <!-- each station lights while the task is in that state (12 s cycle) -->
+  <g fill="none" stroke="#35E3FF" stroke-width="1.5" opacity="0">
+    <circle cx="90" cy="150" r="14"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.0833;.11;1" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="150" r="14"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.1667;.1667;.25;.275;1" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="370" cy="150" r="14"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.3333;.3333;.4167;.44;1" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="510" cy="150" r="14"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.5;.5;.5833;.61;1" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="150" r="14"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.6667;.6667;.75;.775;1" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="790" cy="150" r="14"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.8333;.8333;.98;1" dur="12s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- the task -->
+  <path id="track" d="M90 150H790" fill="none"/>
+  <rect x="-6" y="-6" width="12" height="12" rx="2" fill="#35E3FF">
+    <animateMotion dur="12s" repeatCount="indefinite" calcMode="linear"
+      keyPoints="0;0;.2;.2;.4;.4;.6;.6;.8;.8;1;1"
+      keyTimes="0;.0833;.1667;.25;.3333;.4167;.5;.5833;.6667;.75;.8333;1"><mpath href="#track"/></animateMotion>
+  </rect>
+
+  <g class="sans" text-anchor="middle">
+    <text class="st" x="90" y="190">Created</text>
+    <text class="st" x="230" y="190">Proposed</text>
+    <text class="st" x="370" y="190">Contracted</text>
+    <text class="st" x="510" y="190">Traveling</text>
+    <text class="st" x="650" y="190">Working</text>
+    <text class="st" x="790" y="190">Completed</text>
+  </g>
+  <g class="m sub" text-anchor="middle">
+    <text x="90" y="210">paid or barter</text>
+    <text x="230" y="210">proposals in</text>
+    <text x="370" y="210">one accepted</text>
+    <text x="510" y="210">live on the map</text>
+    <text x="650" y="210">both in contact</text>
+    <text x="790" y="210">both notified</text>
+  </g>
+
+  <line x1="1" y1="236" x2="879" y2="236" stroke="#161D2E" stroke-width="1.5"/>
+  <text class="m" x="28" y="260" font-size="11" letter-spacing=".5" fill="#6B7489">Expo / React Native · Next.js · REST · WebSockets · Redis · outbox events · Leaflet / OSM</text>
+</svg>

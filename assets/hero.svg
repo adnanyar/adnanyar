@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 480" width="880" height="480" role="img" aria-labelledby="title desc">
+  <title id="title">Adnan Yar — from signal to system</title>
+  <desc id="desc">Adnan Yar, founder and CEO of DevDevise, software engineer. Beside the name, the architecture of Task4Task is devised live: dashed, proposed parts swing onto a grid and turn solid, connections draw in, and data starts to flow from the mobile app through the task API, events and the real-time layer to both sides of a task.</desc>
+  <style>
+    .sans{font-family:'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+    .m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .ink{fill:#EEF1F8}.gr{fill:#9AA3B8}.fa{fill:#6B7489}.cy{fill:#35E3FF}.vi{fill:#9D7BFF}.am{fill:#FFB547}
+    .ghost{fill:none;stroke:#9D7BFF;stroke-width:1.3;stroke-dasharray:4 3;transform-box:fill-box;transform-origin:center;
+      animation:snap .8s cubic-bezier(.2,.8,.2,1) forwards,fade .35s ease forwards}
+    .solid{animation:show .3s ease both}
+    .solid rect{fill:#0B1120;stroke:#35E3FF;stroke-opacity:.75;stroke-width:1.3}
+    .solid text{fill:#EEF1F8;font-size:11px}
+    .edge{fill:none;stroke:#3A4766;stroke-width:1.3;stroke-dasharray:1;stroke-dashoffset:1;animation:draw .6s ease both,show .01s both}
+    .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+    .show{animation:show .4s ease both}
+    @keyframes snap{to{transform:translate(0,0) rotate(0deg)}}
+    @keyframes fade{to{opacity:0}}
+    @keyframes show{from{opacity:0}to{opacity:1}}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+    @media (prefers-reduced-motion:reduce){
+      .ghost{display:none}.solid,.rise,.show{animation:none}.edge{animation:none;stroke-dashoffset:0}
+    }
+  </style>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#94AAFF" stroke-opacity=".05"/>
+    </pattern>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#4A5878"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="878" height="478" rx="14" fill="#04060B" stroke="#161D2E" stroke-width="2"/>
+  <rect x="452" y="52" width="410" height="398" rx="10" fill="url(#grid)" stroke="#161D2E"/>
+
+  <!-- top strip -->
+  <text class="m cy" x="28" y="30" font-size="12" letter-spacing="2" font-weight="700">FIG. 0</text>
+  <text class="m fa" x="88" y="30" font-size="12" letter-spacing="1">— FROM SIGNAL TO SYSTEM</text>
+  <text class="m fa" x="852" y="30" font-size="12" text-anchor="end" letter-spacing="1">github.com/adnanyar</text>
+
+  <!-- identity -->
+  <g class="show" style="animation-delay:.1s">
+    <circle cx="34" cy="112" r="4" fill="#35E3FF"/>
+    <text class="m gr" x="46" y="116" font-size="12" letter-spacing="2">FOUNDER &amp; CEO · DEVDEVISE</text>
+  </g>
+  <g class="rise" style="animation-delay:.25s">
+    <text class="sans ink" x="24" y="196" font-size="78" font-weight="600" letter-spacing="-2">Adnan</text>
+    <text class="sans ink" x="24" y="274" font-size="78" font-weight="600" letter-spacing="-2">Yar<tspan class="cy">.</tspan></text>
+  </g>
+  <g class="sans show" font-size="17" style="animation-delay:.8s">
+    <text class="gr" x="28" y="322">Software engineer. I research and build</text>
+    <text class="gr" x="28" y="346"><tspan class="vi">intelligent</tspan> software <tspan class="cy">systems</tspan>.</text>
+  </g>
+  <g class="m show" font-size="12" letter-spacing="1" style="animation-delay:1.2s">
+    <text class="am" x="28" y="398">◆ GOLD MEDAL · BS SOFTWARE ENGINEERING</text>
+    <text class="fa" x="28" y="422">SYSMALLA → DEVDEVISE → SYSTEMS</text>
+  </g>
+
+  <!-- legend -->
+  <g class="m fa" font-size="10" letter-spacing="1">
+    <line x1="470" y1="72" x2="492" y2="72" stroke="#9D7BFF" stroke-width="1.3" stroke-dasharray="4 3"/>
+    <text x="498" y="75">PROPOSED</text>
+    <line x1="570" y1="72" x2="592" y2="72" stroke="#35E3FF" stroke-width="1.3"/>
+    <text x="598" y="75">BUILT</text>
+    <text x="846" y="75" text-anchor="end">W-001 TASK4TASK</text>
+  </g>
+
+  <!-- edges (draw after the parts settle) -->
+  <g marker-end="url(#ah)">
+    <path id="e1" class="edge" pathLength="1" style="animation-delay:2.7s,2.7s" d="M777 96V86H525V96"/>
+    <path id="e2" class="edge" pathLength="1" style="animation-delay:2.8s,2.8s" d="M525 130V150H560V176"/>
+    <path id="e3" class="edge" pathLength="1" style="animation-delay:2.85s,2.85s" d="M651 130V150H590V176"/>
+    <path id="e4" class="edge" pathLength="1" style="animation-delay:2.9s,2.9s" d="M545 130V162H745V176"/>
+    <path id="e5" class="edge" pathLength="1" style="animation-delay:3.0s,3.0s" d="M575 210V256"/>
+    <path id="e6" class="edge" pathLength="1" style="animation-delay:3.05s,3.05s" d="M800 193H836V353H715"/>
+    <path id="e7" class="edge" pathLength="1" style="animation-delay:3.1s,3.1s" d="M745 290V318H690V336"/>
+    <path id="e8" class="edge" pathLength="1" style="animation-delay:3.15s,3.15s" d="M575 290V318H630V336"/>
+    <path id="e9" class="edge" pathLength="1" style="animation-delay:3.3s,3.3s" d="M660 370V410"/>
+  </g>
+
+  <!-- parts: a dashed ghost swings onto the grid, then the solid part appears -->
+  <g class="m" text-anchor="middle">
+    <rect class="ghost" x="470" y="96" width="110" height="34" rx="4" style="transform:translate(-26px,30px) rotate(-8deg);animation-delay:.3s,1.2s"/>
+    <g class="solid" style="animation-delay:1.05s"><rect x="470" y="96" width="110" height="34" rx="4"/><text x="525" y="117">Mobile app</text></g>
+
+    <rect class="ghost" x="596" y="96" width="110" height="34" rx="4" style="transform:translate(18px,-24px) rotate(7deg);animation-delay:.45s,1.35s"/>
+    <g class="solid" style="animation-delay:1.2s"><rect x="596" y="96" width="110" height="34" rx="4"/><text x="651" y="117">Web</text></g>
+
+    <rect class="ghost" x="722" y="96" width="110" height="34" rx="4" style="transform:translate(20px,34px) rotate(10deg);animation-delay:.6s,1.5s"/>
+    <g class="solid" style="animation-delay:1.35s"><rect x="722" y="96" width="110" height="34" rx="4"/><text x="777" y="117">Maps</text></g>
+
+    <rect class="ghost" x="520" y="176" width="110" height="34" rx="4" style="transform:translate(-40px,8px) rotate(-12deg);animation-delay:.75s,1.65s"/>
+    <g class="solid" style="animation-delay:1.5s"><rect x="520" y="176" width="110" height="34" rx="4"/><text x="575" y="197">Task API</text></g>
+
+    <rect class="ghost" x="690" y="176" width="110" height="34" rx="4" style="transform:translate(30px,-10px) rotate(9deg);animation-delay:.9s,1.8s"/>
+    <g class="solid" style="animation-delay:1.65s"><rect x="690" y="176" width="110" height="34" rx="4"/><text x="745" y="197">Location</text></g>
+
+    <rect class="ghost" x="520" y="256" width="110" height="34" rx="4" style="transform:translate(-30px,26px) rotate(8deg);animation-delay:1.05s,1.95s"/>
+    <g class="solid" style="animation-delay:1.8s"><rect x="520" y="256" width="110" height="34" rx="4"/><text x="575" y="277">Outbox·events</text></g>
+
+    <rect class="ghost" x="690" y="256" width="110" height="34" rx="4" style="transform:translate(34px,20px) rotate(-10deg);animation-delay:1.2s,2.1s"/>
+    <g class="solid" style="animation-delay:1.95s"><rect x="690" y="256" width="110" height="34" rx="4"/><text x="745" y="277">Redis</text></g>
+
+    <rect class="ghost" x="605" y="336" width="110" height="34" rx="4" style="transform:translate(-22px,-26px) rotate(-6deg);animation-delay:1.35s,2.25s"/>
+    <g class="solid" style="animation-delay:2.1s"><rect x="605" y="336" width="110" height="34" rx="4"/><text x="660" y="357">Real-time</text></g>
+
+    <rect class="ghost" x="605" y="410" width="110" height="34" rx="4" style="transform:translate(26px,-14px) rotate(11deg);animation-delay:1.5s,2.4s"/>
+    <g class="solid" style="animation-delay:2.25s"><rect x="605" y="410" width="110" height="34" rx="4" style="stroke-opacity:1"/><text x="660" y="431">Both sides</text></g>
+  </g>
+
+  <!-- data in motion, once the system is built -->
+  <g fill="#35E3FF">
+    <circle r="3" opacity="0"><set attributeName="opacity" to="1" begin="3.6s"/><animateMotion dur="1.6s" begin="3.6s" repeatCount="indefinite"><mpath href="#e2"/></animateMotion></circle>
+    <circle r="3" opacity="0"><set attributeName="opacity" to="1" begin="3.9s"/><animateMotion dur="1.2s" begin="3.9s" repeatCount="indefinite"><mpath href="#e5"/></animateMotion></circle>
+    <circle r="3" opacity="0"><set attributeName="opacity" to="1" begin="4.2s"/><animateMotion dur="1.6s" begin="4.2s" repeatCount="indefinite"><mpath href="#e8"/></animateMotion></circle>
+    <circle r="3" opacity="0"><set attributeName="opacity" to="1" begin="4.4s"/><animateMotion dur="2.6s" begin="4.4s" repeatCount="indefinite"><mpath href="#e6"/></animateMotion></circle>
+    <circle r="3" opacity="0"><set attributeName="opacity" to="1" begin="4.6s"/><animateMotion dur="1.4s" begin="4.6s" repeatCount="indefinite"><mpath href="#e7"/></animateMotion></circle>
+    <circle r="3" opacity="0"><set attributeName="opacity" to="1" begin="4.8s"/><animateMotion dur="1s" begin="4.8s" repeatCount="indefinite"><mpath href="#e9"/></animateMotion></circle>
+  </g>
+
+  <!-- running -->
+  <g class="m show" font-size="11" letter-spacing="1.5" style="animation-delay:3.6s">
+    <circle cx="474" cy="466" r="3.5" fill="#35E3FF">
+      <animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text class="cy" x="486" y="470">RUNNING</text>
+    <text class="fa" x="846" y="470" text-anchor="end">connections simplified</text>
+  </g>
+</svg>
