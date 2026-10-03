@@ -37,19 +37,26 @@
 
 ## 01 · Signal
 
+<p align="center">
+  <img src="assets/signal.svg" width="100%" alt="I'm a software engineer and founder. I founded DevDevise on one idea: strong systems should be devised through investigation and evidence before they are engineered. A noisy violet signal resolves into a clean cyan system wave. Role: founder and CEO, DevDevise and SysMalla. Practice: software engineer, systems architect. Focus: intelligent systems, AI and LLM, automation. Record: gold medal, BS Software Engineering. Shipped: CRMs, ERP modules, order management, calendar sync and AI matchmaking across Pakistan and the GCC." />
+</p>
+
+<details>
+<summary><sub>read the signal as text</sub></summary>
+<br />
+
 I'm a software engineer and founder. I build intelligent software systems, and I solve hard technical problems through structured engineering and research.
 
-I founded **DevDevise** around one idea: a strong system should be *devised* through investigation and evidence before it is engineered. DevDevise is a **SysMalla** company. SysMalla works on the business, and DevDevise works on the system.
+I founded **DevDevise** around one idea: strong systems should be *devised* through investigation and evidence before they are engineered. DevDevise is a **SysMalla** company. SysMalla works on the business, and DevDevise works on the system.
 
 Alongside that, I've shipped CRMs, ERP modules, order management, calendar sync and AI matchmaking at software companies delivering across Pakistan and the GCC.
 
-```text
-name      Adnan Yar
-role      founder & CEO · DevDevise, SysMalla
-practice  software engineer · full-stack · systems architect
-focus     intelligent systems · AI / LLM · automation · SaaS
-record    ◆ gold medal, BS Software Engineering, KFUEIT
-```
+- **Role:** founder & CEO · DevDevise, SysMalla
+- **Practice:** software engineer · full-stack · systems architect
+- **Focus:** intelligent systems · AI / LLM · automation · SaaS
+- **Record:** ◆ gold medal, BS Software Engineering, KFUEIT
+
+</details>
 
 <br />
 
