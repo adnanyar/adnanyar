@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" width="280" height="64" role="img" aria-label="ENTER AS HIRING: shipped → record">
+  <style>.sans{font-family:'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+  <defs><linearGradient id="b" x1="0" y1="0" x2="280" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#35E3FF" stop-opacity=".18"/><stop offset="1" stop-color="#35E3FF" stop-opacity=".02"/></linearGradient></defs>
+  <rect x="1" y="1" width="278" height="62" rx="12" fill="#04060B" stroke="#35E3FF" stroke-opacity=".55" stroke-width="1.5"/>
+  <rect x="1" y="1" width="278" height="62" rx="12" fill="url(#b)"/>
+  <circle cx="35" cy="32" r="13" fill="#35E3FF" fill-opacity=".12" stroke="#35E3FF" stroke-width="1.6"/><path d="M30 26l7 6-7 6" fill="none" stroke="#35E3FF" stroke-width="2"/>
+  <text class="m" x="64" y="27" font-size="10.5" letter-spacing="2" font-weight="700" fill="#35E3FF">ENTER AS HIRING</text>
+  <text class="sans" x="64" y="48" font-size="16" font-weight="600" fill="#EEF1F8">shipped → record</text>
+  <path d="M246 26l7 6-7 6" fill="none" stroke="#35E3FF" stroke-width="2"/>
+</svg>

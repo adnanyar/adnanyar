@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" width="420" height="64" role="img" aria-label="MAIL: adnanyar143@gmail.com">
+  <style>.sans{font-family:'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+  <defs><linearGradient id="b" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#4C8DFF" stop-opacity=".18"/><stop offset="1" stop-color="#4C8DFF" stop-opacity=".02"/></linearGradient></defs>
+  <rect x="1" y="1" width="418" height="62" rx="12" fill="#04060B" stroke="#4C8DFF" stroke-opacity=".55" stroke-width="1.5"/>
+  <rect x="1" y="1" width="418" height="62" rx="12" fill="url(#b)"/>
+  <rect x="22" y="22" width="26" height="20" rx="3" fill="none" stroke="#4C8DFF" stroke-width="1.6"/><path d="M23 24l12 9 12-9" fill="none" stroke="#4C8DFF" stroke-width="1.6"/>
+  <text class="m" x="64" y="27" font-size="10.5" letter-spacing="2" font-weight="700" fill="#4C8DFF">MAIL</text>
+  <text class="sans" x="64" y="48" font-size="16" font-weight="600" fill="#EEF1F8">adnanyar143@gmail.com</text>
+  <path d="M386 26l7 6-7 6" fill="none" stroke="#4C8DFF" stroke-width="2"/>
+</svg>

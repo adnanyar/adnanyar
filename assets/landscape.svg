@@ -23,9 +23,10 @@
   <rect x="1" y="1" width="878" height="578" rx="14" fill="#04060B" stroke="#161D2E" stroke-width="2"/>
   <rect x="2" y="46" width="876" height="490" fill="url(#grid)"/>
 
-  <text class="m" x="28" y="30" font-size="12" letter-spacing="2" font-weight="700" fill="#35E3FF">FIG. 1</text>
-  <text class="m" x="88" y="30" font-size="12" letter-spacing="1" fill="#6B7489">— THE LANDSCAPE</text>
-  <text class="m" x="852" y="30" font-size="12" letter-spacing="1" fill="#6B7489" text-anchor="end">arrows read “feeds”</text>
+  <defs><linearGradient id="top" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#4C8DFF"/><stop offset=".5" stop-color="#35E3FF"/><stop offset="1" stop-color="#9D7BFF"/></linearGradient></defs>
+  <rect x="1" y="1" width="878" height="3" rx="1.5" fill="url(#top)"/>
+  <text class="m" x="28" y="30" font-size="12" letter-spacing="2" font-weight="700" fill="#35E3FF">02 · THE LANDSCAPE</text>
+  <text class="m" x="852" y="30" font-size="12" letter-spacing="1" fill="#6B7489" text-anchor="end">read bottom to top · arrows read “feeds”</text>
   <line x1="1" y1="46" x2="879" y2="46" stroke="#161D2E" stroke-width="1.5"/>
 
   <!-- tier labels -->

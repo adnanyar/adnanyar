@@ -1,85 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 520" width="880" height="520" role="img" aria-labelledby="title desc">
   <title id="title">01 · Signal — who Adnan Yar is</title>
-  <desc id="desc">I'm a software engineer and founder. I founded DevDevise on one idea: strong systems should be devised through investigation and evidence before they are engineered. A noisy violet signal resolves into a clean cyan system wave. Role: founder and CEO of DevDevise and SysMalla. Practice: software engineer and systems architect. Focus: intelligent systems, AI and LLMs, automation. Record: gold medal, BS Software Engineering. Shipped: CRMs, ERP modules, order management, calendar sync and AI matchmaking across Pakistan and the GCC.</desc>
+  <desc id="desc">I'm a software engineer and founder. I founded DevDevise on one idea: strong systems should be devised through investigation and evidence before they are engineered. Role: founder and CEO, DevDevise and SysMalla. Practice: software engineer, systems architect. Focus: intelligent systems, AI and LLM, automation. Record: gold medal, BS Software Engineering.</desc>
   <style>
     .sans{font-family:'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
     .m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
-    .lbl{font-size:11px;letter-spacing:2px;font-weight:700}
-    .val{fill:#EEF1F8;font-size:16px}
-    .q{font-size:33px;font-weight:600;letter-spacing:-.5px}
     .in{animation:in .8s cubic-bezier(.2,.7,.2,1) both}
-    .run{stroke-dasharray:70 1400;animation:run 3.2s linear infinite}
+    .blink{animation:blink 1.1s steps(1,end) infinite}
     @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
-    @keyframes run{from{stroke-dashoffset:1470}to{stroke-dashoffset:0}}
-    @media (prefers-reduced-motion:reduce){.in,.run{animation:none}.run{display:none}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.in,.blink{animation:none}}
   </style>
   <defs>
-    <linearGradient id="spec" x1="28" y1="0" x2="852" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#9D7BFF"/>
-      <stop offset=".5" stop-color="#4C8DFF"/>
-      <stop offset="1" stop-color="#35E3FF"/>
-    </linearGradient>
-    <linearGradient id="qg" x1="28" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#C4B2FF"/>
-      <stop offset=".45" stop-color="#7FB0FF"/>
-      <stop offset="1" stop-color="#35E3FF"/>
-    </linearGradient>
-    <radialGradient id="glowV" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 150) scale(360 220)">
-      <stop offset="0" stop-color="#9D7BFF" stop-opacity=".16"/><stop offset="1" stop-color="#9D7BFF" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 270) scale(340 200)">
-      <stop offset="0" stop-color="#35E3FF" stop-opacity=".13"/><stop offset="1" stop-color="#35E3FF" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="blur" x="-10%" y="-50%" width="120%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
+    <linearGradient id="top" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0.00" stop-color="#9D7BFF"/><stop offset="0.50" stop-color="#4C8DFF"/><stop offset="1.00" stop-color="#35E3FF"/></linearGradient>
+    <radialGradient id="g0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 150) scale(360 220)"><stop offset="0" stop-color="#9D7BFF" stop-opacity="0.16"/><stop offset="1" stop-color="#9D7BFF" stop-opacity="0"/></radialGradient><radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 270) scale(340 200)"><stop offset="0" stop-color="#35E3FF" stop-opacity="0.13"/><stop offset="1" stop-color="#35E3FF" stop-opacity="0"/></radialGradient>
   </defs>
-
   <rect x="1" y="1" width="878" height="518" rx="14" fill="#04060B" stroke="#161D2E" stroke-width="2"/>
-  <rect x="2" y="2" width="876" height="516" rx="13" fill="url(#glowV)"/>
-  <rect x="2" y="2" width="876" height="516" rx="13" fill="url(#glowC)"/>
-  <rect x="1" y="1" width="878" height="3" rx="1.5" fill="url(#spec)"/>
-
+  <rect x="2" y="2" width="876" height="516" rx="13" fill="url(#g0)"/><rect x="2" y="2" width="876" height="516" rx="13" fill="url(#g1)"/>
+  <rect x="1" y="1" width="878" height="3" rx="1.5" fill="url(#top)"/>
   <text class="m" x="28" y="34" font-size="12" letter-spacing="2" font-weight="700" fill="#35E3FF">01 · SIGNAL</text>
   <text class="m" x="852" y="34" font-size="12" letter-spacing="1" fill="#6B7489" text-anchor="end">transmission from adnan.yar</text>
 
+  <defs>
+    <linearGradient id="spec" x1="28" y1="0" x2="852" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#9D7BFF"/><stop offset=".5" stop-color="#4C8DFF"/><stop offset="1" stop-color="#35E3FF"/></linearGradient>
+    <linearGradient id="qg" x1="28" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#C4B2FF"/><stop offset=".45" stop-color="#7FB0FF"/><stop offset="1" stop-color="#35E3FF"/></linearGradient>
+    <filter id="blur" x="-10%" y="-50%" width="120%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+  <style>.run{stroke-dasharray:70 1400;animation:run 3.2s linear infinite}@keyframes run{from{stroke-dashoffset:1470}to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){.run{display:none}}</style>
   <text class="sans in" x="28" y="88" font-size="18" fill="#9AA3B8" style="animation-delay:.1s">I’m a software engineer and founder. I founded <tspan fill="#EEF1F8" font-weight="600">DevDevise</tspan> on one idea:</text>
-  <g class="sans q in" fill="url(#qg)" style="animation-delay:.35s">
+  <g class="sans in" font-size="33" font-weight="600" letter-spacing="-.5" fill="url(#qg)" style="animation-delay:.35s">
     <text x="26" y="140">Strong systems should be <tspan fill="#C4B2FF" font-style="italic">devised</tspan></text>
     <text x="26" y="180">through investigation and evidence</text>
     <text x="26" y="220">before they are <tspan fill="#35E3FF">engineered.</tspan></text>
   </g>
-
-  <!-- signal → system -->
-  <path d="M28 254.2 L37 246.8 L46 268.5 L55 243.7 L64 263.5 L73 256.4 L82 243.6 L91 262.3 L100 243.1 L109 259.3 L118 244.8 L127 245.8 L136 259.0 L145 274.7 L154 247.5 L163 251.5 L172 266.8 L181 278.7 L190 264.8 L199 258.2 L208 279.2 L217 245.8 L226 274.7 L235 254.6 L244 249.7 L253 248.9 L262 255.5 L271 272.5 L280 251.5 L289 264.7 L298 266.5 L307 257.9 L316 263.5 L325 248.4 L334 248.5 L343 253.1 L352 267.4 L361 259.9 L370 256.6 L379 264.5 L388 275.6 L392 278.8 L396 278.7 L400 275.4 L404 269.6 L408 262.5 L412 255.5 L416 250.0 L420 247.0 L424 246.9 L428 249.7 L432 254.8 L436 261.1 L440 267.4 L444 272.4 L448 275.3 L452 275.5 L456 273.2 L460 268.7 L464 263.2 L468 257.6 L472 253.1 L476 250.4 L480 250.1 L484 252.0 L488 255.8 L492 260.6 L496 265.5 L500 269.5 L504 269.5 L504 244 L526.0 244 L526.0 280 L548.0 280 L548.0 244 L570.0 244 L570.0 280 L592.0 280 L592.0 244 L614.0 244 L614.0 280 L636.0 280 L636.0 244 L658.0 244 L658.0 280 L680.0 280 L680.0 244 L702.0 244 L702.0 280 L724.0 280 L724.0 244 L746.0 244 L746.0 280 L768.0 280 L768.0 244 L790.0 244 L790.0 280 L812.0 280 L812.0 244 L834.0 244 L834.0 280 L852 280" fill="none" stroke="url(#spec)" stroke-width="5" opacity=".35" filter="url(#blur)"/>
-  <path d="M28 254.2 L37 246.8 L46 268.5 L55 243.7 L64 263.5 L73 256.4 L82 243.6 L91 262.3 L100 243.1 L109 259.3 L118 244.8 L127 245.8 L136 259.0 L145 274.7 L154 247.5 L163 251.5 L172 266.8 L181 278.7 L190 264.8 L199 258.2 L208 279.2 L217 245.8 L226 274.7 L235 254.6 L244 249.7 L253 248.9 L262 255.5 L271 272.5 L280 251.5 L289 264.7 L298 266.5 L307 257.9 L316 263.5 L325 248.4 L334 248.5 L343 253.1 L352 267.4 L361 259.9 L370 256.6 L379 264.5 L388 275.6 L392 278.8 L396 278.7 L400 275.4 L404 269.6 L408 262.5 L412 255.5 L416 250.0 L420 247.0 L424 246.9 L428 249.7 L432 254.8 L436 261.1 L440 267.4 L444 272.4 L448 275.3 L452 275.5 L456 273.2 L460 268.7 L464 263.2 L468 257.6 L472 253.1 L476 250.4 L480 250.1 L484 252.0 L488 255.8 L492 260.6 L496 265.5 L500 269.5 L504 269.5 L504 244 L526.0 244 L526.0 280 L548.0 280 L548.0 244 L570.0 244 L570.0 280 L592.0 280 L592.0 244 L614.0 244 L614.0 280 L636.0 280 L636.0 244 L658.0 244 L658.0 280 L680.0 280 L680.0 244 L702.0 244 L702.0 280 L724.0 280 L724.0 244 L746.0 244 L746.0 280 L768.0 280 L768.0 244 L790.0 244 L790.0 280 L812.0 280 L812.0 244 L834.0 244 L834.0 280 L852 280" fill="none" stroke="url(#spec)" stroke-width="1.8" stroke-linejoin="round"/>
-  <path class="run" d="M28 254.2 L37 246.8 L46 268.5 L55 243.7 L64 263.5 L73 256.4 L82 243.6 L91 262.3 L100 243.1 L109 259.3 L118 244.8 L127 245.8 L136 259.0 L145 274.7 L154 247.5 L163 251.5 L172 266.8 L181 278.7 L190 264.8 L199 258.2 L208 279.2 L217 245.8 L226 274.7 L235 254.6 L244 249.7 L253 248.9 L262 255.5 L271 272.5 L280 251.5 L289 264.7 L298 266.5 L307 257.9 L316 263.5 L325 248.4 L334 248.5 L343 253.1 L352 267.4 L361 259.9 L370 256.6 L379 264.5 L388 275.6 L392 278.8 L396 278.7 L400 275.4 L404 269.6 L408 262.5 L412 255.5 L416 250.0 L420 247.0 L424 246.9 L428 249.7 L432 254.8 L436 261.1 L440 267.4 L444 272.4 L448 275.3 L452 275.5 L456 273.2 L460 268.7 L464 263.2 L468 257.6 L472 253.1 L476 250.4 L480 250.1 L484 252.0 L488 255.8 L492 260.6 L496 265.5 L500 269.5 L504 269.5 L504 244 L526.0 244 L526.0 280 L548.0 280 L548.0 244 L570.0 244 L570.0 280 L592.0 280 L592.0 244 L614.0 244 L614.0 280 L636.0 280 L636.0 244 L658.0 244 L658.0 280 L680.0 280 L680.0 244 L702.0 244 L702.0 280 L724.0 280 L724.0 244 L746.0 244 L746.0 280 L768.0 280 L768.0 244 L790.0 244 L790.0 280 L812.0 280 L812.0 244 L834.0 244 L834.0 280 L852 280" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" pathLength="1470" opacity=".9"/>
+  <path d="M28 254.2 L37 246.8 L46 268.5 L55 243.7 L64 263.5 L73 256.4 L82 243.6 L91 262.3 L100 243.1 L109 259.3 L118 244.8 L127 245.8 L136 259.0 L145 274.7 L154 247.5 L163 251.5 L172 266.8 L181 278.7 L190 264.8 L199 258.2 L208 279.2 L217 245.8 L226 274.7 L235 254.6 L244 249.7 L253 248.9 L262 255.5 L271 272.5 L280 251.5 L289 264.7 L298 266.5 L307 257.9 L316 263.5 L325 248.4 L334 248.5 L343 253.1 L352 267.4 L361 259.9 L370 256.6 L379 264.5 L388 275.6 L392 278.8 L396 278.7 L400 275.4 L404 269.6 L408 262.5 L412 255.5 L416 250.0 L420 247.0 L424 246.9 L428 249.7 L432 254.8 L436 261.1 L440 267.4 L444 272.4 L448 275.3 L452 275.5 L456 273.2 L460 268.7 L464 263.2 L468 257.6 L472 253.1 L476 250.4 L480 250.1 L484 252.0 L488 255.8 L492 260.6 L496 265.5 L500 269.5 L504 269.5 L504 244 L526 244 L526 280 L548 280 L548 244 L570 244 L570 280 L592 280 L592 244 L614 244 L614 280 L636 280 L636 244 L658 244 L658 280 L680 280 L680 244 L702 244 L702 280 L724 280 L724 244 L746 244 L746 280 L768 280 L768 244 L790 244 L790 280 L812 280 L812 244 L834 244 L834 280 L852 280" fill="none" stroke="url(#spec)" stroke-width="5" opacity=".35" filter="url(#blur)"/>
+  <path d="M28 254.2 L37 246.8 L46 268.5 L55 243.7 L64 263.5 L73 256.4 L82 243.6 L91 262.3 L100 243.1 L109 259.3 L118 244.8 L127 245.8 L136 259.0 L145 274.7 L154 247.5 L163 251.5 L172 266.8 L181 278.7 L190 264.8 L199 258.2 L208 279.2 L217 245.8 L226 274.7 L235 254.6 L244 249.7 L253 248.9 L262 255.5 L271 272.5 L280 251.5 L289 264.7 L298 266.5 L307 257.9 L316 263.5 L325 248.4 L334 248.5 L343 253.1 L352 267.4 L361 259.9 L370 256.6 L379 264.5 L388 275.6 L392 278.8 L396 278.7 L400 275.4 L404 269.6 L408 262.5 L412 255.5 L416 250.0 L420 247.0 L424 246.9 L428 249.7 L432 254.8 L436 261.1 L440 267.4 L444 272.4 L448 275.3 L452 275.5 L456 273.2 L460 268.7 L464 263.2 L468 257.6 L472 253.1 L476 250.4 L480 250.1 L484 252.0 L488 255.8 L492 260.6 L496 265.5 L500 269.5 L504 269.5 L504 244 L526 244 L526 280 L548 280 L548 244 L570 244 L570 280 L592 280 L592 244 L614 244 L614 280 L636 280 L636 244 L658 244 L658 280 L680 280 L680 244 L702 244 L702 280 L724 280 L724 244 L746 244 L746 280 L768 280 L768 244 L790 244 L790 280 L812 280 L812 244 L834 244 L834 280 L852 280" fill="none" stroke="url(#spec)" stroke-width="1.8" stroke-linejoin="round"/>
+  <path class="run" d="M28 254.2 L37 246.8 L46 268.5 L55 243.7 L64 263.5 L73 256.4 L82 243.6 L91 262.3 L100 243.1 L109 259.3 L118 244.8 L127 245.8 L136 259.0 L145 274.7 L154 247.5 L163 251.5 L172 266.8 L181 278.7 L190 264.8 L199 258.2 L208 279.2 L217 245.8 L226 274.7 L235 254.6 L244 249.7 L253 248.9 L262 255.5 L271 272.5 L280 251.5 L289 264.7 L298 266.5 L307 257.9 L316 263.5 L325 248.4 L334 248.5 L343 253.1 L352 267.4 L361 259.9 L370 256.6 L379 264.5 L388 275.6 L392 278.8 L396 278.7 L400 275.4 L404 269.6 L408 262.5 L412 255.5 L416 250.0 L420 247.0 L424 246.9 L428 249.7 L432 254.8 L436 261.1 L440 267.4 L444 272.4 L448 275.3 L452 275.5 L456 273.2 L460 268.7 L464 263.2 L468 257.6 L472 253.1 L476 250.4 L480 250.1 L484 252.0 L488 255.8 L492 260.6 L496 265.5 L500 269.5 L504 269.5 L504 244 L526 244 L526 280 L548 280 L548 244 L570 244 L570 280 L592 280 L592 244 L614 244 L614 280 L636 280 L636 244 L658 244 L658 280 L680 280 L680 244 L702 244 L702 280 L724 280 L724 244 L746 244 L746 280 L768 280 L768 244 L790 244 L790 280 L812 280 L812 244 L834 244 L834 280 L852 280" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" pathLength="1470" opacity=".9"/>
   <g class="m" font-size="10" letter-spacing="2">
     <text x="28" y="312" fill="#9D7BFF">SIGNAL · NOISE</text>
     <text x="440" y="312" fill="#4C8DFF" text-anchor="middle">DEVISE</text>
     <text x="852" y="312" fill="#35E3FF" text-anchor="end">SYSTEM · STRUCTURE</text>
   </g>
-
   <line x1="28" y1="332" x2="852" y2="332" stroke="#161D2E" stroke-width="1.5"/>
-
-  <!-- identity fields, each coloured by its job -->
   <g class="in" style="animation-delay:.7s">
-    <rect x="28" y="352" width="3" height="40" fill="#35E3FF"/>
-    <text class="m lbl" x="42" y="364" fill="#35E3FF">ROLE</text>
-    <text class="sans val" x="42" y="388">Founder &amp; CEO · DevDevise, SysMalla</text>
-
-    <rect x="452" y="352" width="3" height="40" fill="#4C8DFF"/>
-    <text class="m lbl" x="466" y="364" fill="#4C8DFF">PRACTICE</text>
-    <text class="sans val" x="466" y="388">Software engineer · systems architect</text>
-
-    <rect x="28" y="412" width="3" height="40" fill="#9D7BFF"/>
-    <text class="m lbl" x="42" y="424" fill="#9D7BFF">FOCUS</text>
-    <text class="sans val" x="42" y="448">Intelligent systems · AI / LLM · automation</text>
-
-    <rect x="452" y="412" width="3" height="40" fill="#FFB547"/>
-    <text class="m lbl" x="466" y="424" fill="#FFB547">RECORD</text>
-    <text class="sans val" x="466" y="448">◆ Gold medal, BS Software Engineering</text>
+  <rect x="28" y="352" width="3" height="40" fill="#35E3FF"/><text class="m" x="42" y="364" font-size="11" letter-spacing="2" font-weight="700" fill="#35E3FF">ROLE</text><text class="sans" x="42" y="388" font-size="16" fill="#EEF1F8">Founder &amp; CEO · DevDevise, SysMalla</text>
+<rect x="452" y="352" width="3" height="40" fill="#4C8DFF"/><text class="m" x="466" y="364" font-size="11" letter-spacing="2" font-weight="700" fill="#4C8DFF">PRACTICE</text><text class="sans" x="466" y="388" font-size="16" fill="#EEF1F8">Software engineer · systems architect</text>
+<rect x="28" y="412" width="3" height="40" fill="#9D7BFF"/><text class="m" x="42" y="424" font-size="11" letter-spacing="2" font-weight="700" fill="#9D7BFF">FOCUS</text><text class="sans" x="42" y="448" font-size="16" fill="#EEF1F8">Intelligent systems · AI / LLM · automation</text>
+<rect x="452" y="412" width="3" height="40" fill="#FFB547"/><text class="m" x="466" y="424" font-size="11" letter-spacing="2" font-weight="700" fill="#FFB547">RECORD</text><text class="sans" x="466" y="448" font-size="16" fill="#EEF1F8">◆ Gold medal, BS Software Engineering</text>
 
     <rect x="28" y="472" width="3" height="32" fill="#6B7489"/>
-    <text class="m lbl" x="42" y="484" fill="#9AA3B8">SHIPPED</text>
+    <text class="m" x="42" y="484" font-size="11" letter-spacing="2" font-weight="700" fill="#9AA3B8">SHIPPED</text>
     <text class="sans" x="42" y="502" font-size="14" fill="#9AA3B8">CRMs · ERP modules · order management · calendar sync · AI matchmaking, across Pakistan and the GCC</text>
   </g>
 </svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200" role="img" aria-labelledby="title desc">
+  <title id="title">09 · Channel — open</title>
+  <desc id="desc">Open channel to Adnan Yar: connected, reply latency human. Open to conversations about intelligent systems, AI and LLM engineering, automation, SaaS architecture and product R&amp;D.</desc>
+  <style>
+    .sans{font-family:'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+    .m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .in{animation:in .8s cubic-bezier(.2,.7,.2,1) both}
+    .blink{animation:blink 1.1s steps(1,end) infinite}
+    @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.in,.blink{animation:none}}
+  </style>
+  <defs>
+    <linearGradient id="top" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0.00" stop-color="#4C8DFF"/><stop offset="1.00" stop-color="#35E3FF"/></linearGradient>
+    <radialGradient id="g0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 100) scale(320 140)"><stop offset="0" stop-color="#4C8DFF" stop-opacity="0.14"/><stop offset="1" stop-color="#4C8DFF" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="878" height="198" rx="14" fill="#04060B" stroke="#161D2E" stroke-width="2"/>
+  <rect x="2" y="2" width="876" height="196" rx="13" fill="url(#g0)"/>
+  <rect x="1" y="1" width="878" height="3" rx="1.5" fill="url(#top)"/>
+  <text class="m" x="28" y="34" font-size="12" letter-spacing="2" font-weight="700" fill="#4C8DFF">09 · CHANNEL</text>
+  <text class="m" x="852" y="34" font-size="12" letter-spacing="1" fill="#6B7489" text-anchor="end">the last terminal</text>
+<text class="m" x="28" y="82" font-size="15" fill="#4C8DFF">$ <tspan fill="#EEF1F8">open channel --to adnan.yar</tspan></text>
+  <text class="m in" x="28" y="110" font-size="15" fill="#35E3FF" style="animation-delay:.6s">  connected<tspan fill="#6B7489"> · reply latency: </tspan><tspan fill="#EEF1F8">human</tspan><tspan class="blink" fill="#35E3FF"> ▍</tspan></text>
+  <text class="sans" x="28" y="150" font-size="16" fill="#9AA3B8">Open to conversations about <tspan fill="#9D7BFF">intelligent systems</tspan>, <tspan fill="#C4B2FF">AI and LLM engineering</tspan>,</text>
+  <text class="sans" x="28" y="174" font-size="16" fill="#9AA3B8"><tspan fill="#35E3FF">automation</tspan>, <tspan fill="#4C8DFF">SaaS architecture</tspan> and <tspan fill="#EEF1F8">product R&amp;D</tspan>. Pick a line below.</text>
+</svg>
